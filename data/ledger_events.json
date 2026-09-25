@@ -1,0 +1,9467 @@
+[
+{
+"section": "1(a)",
+"problem": "11",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🔴",
+"outcome": "Incorrect claim made",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "42",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial result (Lean)",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "51",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🔴",
+"outcome": "Incorrect proof found",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "64",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No counterexample found",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "75",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Solution (using prior literature) to previous formulation of the problem",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "124",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial result (Lean)",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "125",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution (Lean)",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "138",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial result (Lean)",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "205",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution (Lean)",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "233",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🔴",
+"outcome": "Incorrect (conditional) proof found",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "358",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🔴",
+"outcome": "Argument with major gaps made",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "457",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution (Lean)",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "460",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Cheap solution to previous formulation of the problem",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "477",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Solution to variant problem (Lean)",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "486",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Cheap counterexample to previous formulation of the problem",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "493",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No counterexample found",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "514",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Cheap counterexample to previous formulation of problem",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "563",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Cheap counterexample to previous formulation of problem",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "616",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🔴",
+"outcome": "Incorrect proof found",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "647",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🔴",
+"outcome": "Incorrect proof found",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "654",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Solution to one formulation of problem",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "665",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Cheap counterexample to previous formulation of problem",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "684",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial result",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "741",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial result (solution to second part)",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "783",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial result",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "850",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Cheap counterexample to previous formulation of problem",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "868",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "Did not find viable approach",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "872",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial result",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "888",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🔴",
+"outcome": "Incorrect proof found",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "949",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Solution to variant problem (Lean)",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "951",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Solution to one formulation of problem",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "960",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "963",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🔴",
+"outcome": "Argument with major gaps made",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "987",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "990",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1040",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Solution to one part of problem;  incorrect solution to other part",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1044",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🔴",
+"outcome": "Incorrect claim made",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1051",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution (Lean)",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "1091",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1139",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "Initial exploration",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1141",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1196",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1202",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "120",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Solution to variant problem (Lean) |  de Reyna (1983) | 14 Mar, 2026 | No",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "152",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution (Lean) |  Erdős, Sárközy, and Sós (1994) | 3 Apr, 2026 | Yes",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "218",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Conditional solution |  Banks (2023) | 28 Jan, 2026 | Yes",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "281",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution |  Davenport and Erdős (1936) + Rogers (in Halberstam-Roth (1966)) | 18 Jan, 2026 | No",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "333",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution (Lean) |  Erdős and Newman (1977) | 25 Dec, 2025 | Yes",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "397",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution (Lean) |  Elkies (2013);  China TST competition (2012) | 10 Jan, 2026; 14 Jan, 2026 | No (Elkies); Yes (TST)",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "543",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution |  Erdős and Hall (1977) | 26 Jan, 2026 | Yes",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "629",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial result |  Erdős (1964) + Erdős, Rubin, and Taylor (1980) | 4 Apr, 2026 | Yes",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "635",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Solution to one part of problem (Lean) |  Elliott (1979) [reduces one part of a problem to a much simpler one] | 30 Jan, 2026 | Yes (for a large portion of the proof)",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "650",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution (stronger than literature) |  Erdős and Selfridge (1978) | 7 Mar, 2026 | No",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "659",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution |  Sheffer and Lund (2014);  Grayzel (2026) | 2 Feb, 2026; 14 Jan, 2026 | Yes",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "728",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution (Lean) |  Pomerance (2014) | 5-6 Jan, 2026 | Yes",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "846",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution (Lean);  Full solution |  Reiher, Rödl, and Sales (2024) | 25 Feb, 2026 | No",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "851",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution (building upon  Romanoff (1934)) | Matthews (1982);  Green and Sawhney (unpublished) | 6 Feb, 2026 | Yes",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "897",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution (Lean) |  Wirsing (1981) | 26 Dec, 2025 | Yes",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "935",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Solution to one part of problem |  van Doorn (2025) [solution to one part of #367] | 2 Feb, 2026 | Yes",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "997",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution |  Benatar (2014) | 1 Apr, 2026 | Yes",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "1026",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution (Lean) |  Tidor, Wang, and Yang (2016) | 8 Dec, 2025 | Only after applying an argument from Seidenberg (1959)",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "1077",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Trivial counterexample to previous formulation of problem (Lean) |  Jiang and Longbrake (2025) | 28 Dec, 2025 | No",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "1082",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Counterexample to one part (Lean) |  Fishburn (2002) | 25 Feb, 2026 | Yes",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "1089",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found |  Bannai and Bannai (1981) | 1 Feb, 2026 | Yes",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "12",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Erdős and Sárközy (1970) |  Partial result (Lean) (solutions to first part and second part)",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "26",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Ruzsa |  Solution to stronger problem",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "36",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Haugland (2016) |  Slight improvement to past construction",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "43",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Barreto (2025) |  New proof of partial result (Lean)",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "52",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Bloom (2025) | Did not match past constructions",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "67",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Konev and Lisitsa (2015) | Did not match past constructions",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "75",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Erdős, Hajnal, and Szemerédi (1982) |  Partial result",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "106",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Halász (1984) | Matched past construction",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "124",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Aristotle (2025) | Did not reproduce a known partial result despite hints",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "198",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Baumgartner (1975) |  New proof found",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "224",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Danzer and Grünbaum (1962) |  New proof found (Lean)",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "258",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Tao and Teräväinen (2025) |  Full solution",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "264",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Kovač and Tao (2024) |  New proof of partial result (Lean); no progress on remaining open problems",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "349",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "van Doorn (2026) |  Improved partial result",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "379",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Cambie, Kovač, and Tao (2025) |  New proof found",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "391",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Alexeev, Conway, Rosenfeld, Sutherland, Tao, Uhr, and Ventello (2025) | Did not match past constructions",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "392",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Erdős and Graham (unpublished, 1980) + Cambie (2025) | Unable to reconstruct unpublished proof (which is now believed to be incomplete)",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "488",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Cambie (2025) |  New solution to variant problem (Lean)",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "493",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Seamans (2025) |  New or existing proof found (Lean)",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "507",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Friedman (2015) |  Surpassed some past constructions",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "513",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "He and Tang (2026) |  Slight improvement to past construction",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "524",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Sawhney (2025) |  Improved bound towards original problem (simultaneous with independent work)",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "679",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "DottedCalculator (2025) |  Improved proof by reducing dependence on prime number theorem",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "729",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Barreto, GPT-5.2-Pro, Aristotle (2026) [full solution to #728]|  Full solution (Lean)",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "788",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Hunter (2025) |  New partial result",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "848",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Sawhney (2025) |  Derived explicit bound;  Partial result of variant problem",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "868",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Erdős and Nathanson (1989) |  New partial result",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "871",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Erdős and Nathanson (1989) |  Existing partial result upgraded to full solution (Lean)",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "942",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Erdős (unpublished, 1976) |  New proof found",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "951",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Barreto, GPT-5.2 Pro, Leeham (2026) + GPT-5.2 Thinking, Sothanaphan (2026) [solution to one formulation of problem] |  New solution to one formulation of problem",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "958",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Clemen, Dumitrescu, and Liu (2025) |  New proof found (Lean)",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "966",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Spencer (unpublished) |  Full solution (Lean)",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "1007",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "House (2013);  Chaffee and Noble (2016) |  New proof found (Lean)",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "1043",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Pommerenke (1961), Aristotle |  New proof found",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "1047",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Goodman (1966) |  New proof found (Lean)",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "1048",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Pommerenke (1961) |  Proof found (Lean), which is a specific case of Pommerenke",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "1090",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Graham and Selfridge (unpublished, ~1975) |  Proof found (Lean)",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "1095",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Ecklund, Erdős, and Selfridge (1975) |  New proof of (slightly weaker) partial result (Lean); no progress on remaining open problems",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "1097",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Lemm (2015) |  Slight improvement to past construction",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "1197",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Buczolich and Mauldin (1999) |  Full solution (Lean)",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "12",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "7 Apr, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "25",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "19 Mar, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "138",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "10 Apr, 2026 |  Partial result of variant problem",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "342",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "20 Jan-23 Mar, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "347",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "25 Oct, 2025-4 Feb, 2026 |  Full solution (Lean)",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "358",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🔴",
+"outcome": "13-20 Feb, 2026 |  Argument with major gaps made",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "367",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "20-22 Nov, 2025 |  Partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "369",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "26 Mar, 2026 |  Full solution (Lean)",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "374",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "31 Mar, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "380",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "31 Mar, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "388",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🔴",
+"outcome": "12-15 Mar, 2026 |  Incorrect proof found",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "396",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "5-7 Apr, 2026 |  Related result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "401",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "10-11 Jan, 2026 |  Counterexample to alternate formulation; full solution to revised formulation (Lean)",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "411",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🔴",
+"outcome": "3 Apr, 2026 |  Incorrect proof found",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "423",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "11-12 Mar, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "460",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "13 Jan, 2026 |  Reduction to a simpler problem",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "488",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "20 Mar, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "659",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "13 Jan, 2026 |  Full solution (Lean)",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "684",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "2 Apr, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "686",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "9 Aug, 2025-15 Mar, 2026 |  Various partial results",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "749",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "4-6 Apr, 2026 |  Partial result;  Solution to variant problem",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "776",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "11 Feb, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "848",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "12 Oct-20 Nov, 2025 |  Full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "931",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "12-15 Mar, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "943",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "3 Feb-18 Mar, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "951",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "28 Jan, 2026 |  New solution to one formulation of problem",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1026",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "8 Dec, 2025  |  Full solution (Lean)",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "1038",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "16 Dec, 2025-19 Mar, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1039",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "6-8 Mar, 2026 |  Partial result (Lean)",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "1041",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🔴",
+"outcome": "17-24 Mar, 2026 |  Argument with major gaps made",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1095",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "13 Mar, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1132",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "2 Feb-24 Mar, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1141",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "25 Jan, 2026 |  Partial result of variant problem",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1148",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "24 Jan-16 Mar, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1153",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "2 Feb-24 Mar, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1183",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "18 Mar, 2026  |  Partial result",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "35",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "66",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "94",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "15 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "96",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No new results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "120",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Solution to variant problem found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "124",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "167",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "188",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "203",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "205",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "214",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "2 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "223",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "248",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "281",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "19 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "288",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "306",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "325",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "330",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🔴",
+"outcome": "Partial results found with inaccuracies; literature proof not found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "333",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "334",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "339",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "347",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "354",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "367",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "22 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "370",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "24 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "387",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "397",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "401",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "421",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "434",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "24 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "481",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "1 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "494",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "515",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "516",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Problem found to be misstated; full solution to actual problem found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "519",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "524",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "533",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "543",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "559",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "574",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "575",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Paper identifying a misstatement to the problem found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "591",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "621",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "645",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "23 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "650",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "6-8 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "652",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution by applying literature results",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "659",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "14 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "686",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "689",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "672",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "700",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "705",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "707",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "23 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "728",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "22 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "729",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Related results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "737",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "749",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "750",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "786",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "788",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "20 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "793",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "811",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "822",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "827",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "829",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "847",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "851",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Confused with another problem;  Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "871",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "903",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "906",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "915",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "940",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "942",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "965",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "967",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "19 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "971",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "985",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "990",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "10 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "992",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1002",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1008",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "17 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1011",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1016",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1019",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Solution claim found, but precise citation not found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1021",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution (which was previously noted) found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1022",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "22 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1038",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1041",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1043",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1044",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No new significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1079",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1084",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1099",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1105",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found;  Gave some wrong references",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1123",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1124",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Solution to variant problem found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1129",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1130",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1139",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1147",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1148",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "17 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1150",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "Claimed solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1153",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "No new significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1154",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1161",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1216",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Related results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "16",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "25 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "26",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "31",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "24 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "34",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "5 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "43",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "21 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "56",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "25 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "93",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "17 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "105",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "17 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "106",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "10 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "115",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "3 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "134",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "7 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "150",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "31 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "154",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "6 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "189",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "17 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "198",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "24 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "199",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "24 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "204",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "15 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "221",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "31 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "226",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "29 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "229",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "237",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "4 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "246",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "258",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "14 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "268",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "13 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "275",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "20 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "283",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "290",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "14 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "303",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "21 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "314",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "1 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "315",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "31 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "331",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "31 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "337",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "10 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "350",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "25 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "355",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "30 Jan-13 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "363",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "10 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "368",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "17 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "369",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "27 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "392",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "6 Jan-23 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "399",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "Feb 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "418",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "22 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "419",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "31 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "429",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "29 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "433",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "24 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "435",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "4 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "443",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "4 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "447",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "10 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "453",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "31 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "459",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "11 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "476",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "31 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "480",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "487",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "16 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "497",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "4 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "498",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "Jan 27, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "499",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "29 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "502",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "2 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "505",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "2 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "537",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "6 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "541",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "30 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "582",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "5 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "613",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "4 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "618",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "8 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "646",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "27 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "648",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "4 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "649",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "7 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "666",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "6 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "678",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "7 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "692",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "2 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "698",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "16 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "751",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "27 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "753",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "14 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "756",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "15 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "762",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "8 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "785",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "6 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "794",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "5 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "835",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "26 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "845",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "8 Jan, 2026 (one form of result), 21 Jan, 2026 (second form)",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "848",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "862",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "21 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "867",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "7 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "897",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "27 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "898",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "905",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "7 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "907",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "7 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "947",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "2 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "958",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "19 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "964",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "14 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "997",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "1 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1000",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1007",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "19 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1023",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "10 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1028",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "19 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1034",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "4 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1036",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "20 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1037",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "19 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1048",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "27 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1067",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1071",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "29 Jan, 2026 (second part); 12 Feb, 2026 (first part)",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1080",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1102",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "23 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1125",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "11 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1126",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "27 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1141",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "11 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1193",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "13 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "69",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "1 Dec, 2025 | Numerics and images",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "114",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "13 Dec, 2025 | Initial numerics, code, and images",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "248",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "1 Dec, 2025 | Numerics and images",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "513",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "12 Feb, 2026 | Code",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "682",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "8 Aug, 2025 | Initial code",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "946",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "1 Dec, 2025 | Numerics and images",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "1153",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "27 Feb, 2026 | Initial code",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "281",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "GPT-5.2 Pro (2026)",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "392",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Tao (2026)",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "457",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Tao (2026) (extension of problem)",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "543",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "GPT-5.2 Pro (2026)",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "728",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Aristotle and GPT-5.2 Pro (2026)",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "783",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "Exploration",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "846",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "DeepMind prover agent (2026)",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "42",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "Verification and exploration",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "43",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "Verification and exploration",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "271",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "OEIS sequence generation",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "334",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "OEIS sequence generation",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "396",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "OEIS sequence generation",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "513",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "Exploration",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "650",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "Optimal construction found numerically",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "684",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "Exploration",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "757",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "Exploration",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "860",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "OEIS sequence location",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "872",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "OEIS sequence generation",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "993",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "Exhaustive verification and exploration",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1044",
+"when": "2026-04-15T22:19:09+07:00",
+"event": "added",
+"colour": "",
+"outcome": "Exploration",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "94",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "changed",
+"from": "",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "214",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "changed",
+"from": "",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "281",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "Failed to find the two literature results which, when combined, solve the problem",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "367",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "No significant results found; did not find Erdős problems community proof",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "370",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "changed",
+"from": "",
+"colour": "🟡",
+"outcome": "Problem found to be misstated; solutions to variant problems found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "434",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "Literature proof not found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "481",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "changed",
+"from": "",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "645",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "changed",
+"from": "",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "650",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "changed",
+"from": "",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "659",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "changed",
+"from": "",
+"colour": "🟡",
+"outcome": "Partial results, upgradeable to full solution, found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "707",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "Literature proof not found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "728",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "788",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "changed",
+"from": "",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "967",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "990",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "changed",
+"from": "",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1008",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "changed",
+"from": "",
+"colour": "🟢",
+"outcome": "Full solution found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1022",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1148",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "No significant results found",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "16",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "25 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "26",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "31",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "24 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "34",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "5 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "43",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "21 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "56",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "25 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "93",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "17 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "94",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "15 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "105",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "17 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "106",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "10 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "115",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "3 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "134",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "7 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "150",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "31 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "154",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "6 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "189",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "17 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "198",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "24 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "199",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "24 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "204",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "15 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "214",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "2 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "221",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "31 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "226",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "29 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "229",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "237",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "4 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "246",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "258",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "14 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "268",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "13 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "275",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "20 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "281",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "19 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "283",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "290",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "14 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "303",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "21 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "314",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "1 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "315",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "31 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "331",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "31 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "337",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "10 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "350",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "25 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "355",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "30 Jan-13 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "363",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "10 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "367",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "22 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "368",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "17 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "369",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "27 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "370",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "24 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "392",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "6 Jan-23 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "399",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "Feb 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "418",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "22 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "419",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "31 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "429",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "29 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "433",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "24 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "434",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "24 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "435",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "4 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "443",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "4 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "447",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "10 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "453",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "31 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "459",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "11 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "476",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "31 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "480",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "481",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "1 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "487",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "16 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "497",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "4 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "498",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "Jan 27, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "499",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "29 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "502",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "2 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "505",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "2 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "537",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "6 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "541",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "30 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "582",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "5 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "613",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "4 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "618",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "8 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "645",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "23 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "646",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "27 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "648",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "4 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "649",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "7 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "650",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "6-8 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "659",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "14 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "666",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "6 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "678",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "7 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "692",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "2 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "698",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "16 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "707",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "23 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "728",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "22 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "751",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "27 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "753",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "14 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "756",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "15 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "762",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "8 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "785",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "6 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "788",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "20 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "794",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "5 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "835",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "26 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "845",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "8 Jan, 2026 (one form of result), 21 Jan, 2026 (second form)",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "848",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "862",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "21 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "867",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "7 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "897",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "27 Nov, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "898",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "905",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "7 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "907",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "7 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "947",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "2 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "958",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "19 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "964",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "14 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "967",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "19 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "990",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "10 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "997",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "1 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1000",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1007",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "19 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1008",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "17 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1022",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "22 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1023",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "10 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1028",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "19 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1034",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "4 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1036",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "20 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1037",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "19 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1048",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "27 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1067",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 Jan, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1071",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "29 Jan, 2026 (second part); 12 Feb, 2026 (first part)",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1080",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 Dec, 2025",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1102",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "23 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1125",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "11 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1126",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "27 Feb, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1141",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "11 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1148",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "17 Mar, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1193",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "13 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "226",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "26",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "1048",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "480",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "666",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "290",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "499",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "337",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "505",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "613",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "1007",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "350",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "537",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "487",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "355",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "43",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "964",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "541",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "498",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "1125",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "363",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "678",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "648",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "16",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "368",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "692",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "1071",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "751",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "947",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "762",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "646",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "115",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "447",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "258",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "997",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "582",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "303",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "898",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "459",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "1037",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "229",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "56",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "221",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "237",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "315",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "867",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "150",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "785",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "93",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "204",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "198",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "314",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "106",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "34",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "331",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "429",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "189",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "497",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "418",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "848",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "907",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "134",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "31",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "1193",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "649",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "845",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "392",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "419",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "1034",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "1028",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "453",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "1023",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "1102",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "268",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "1036",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "1080",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "698",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "958",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "618",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "283",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "502",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "862",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "476",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "435",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "246",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "905",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "1000",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "1067",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "369",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "105",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "835",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "433",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "1141",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "199",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "794",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "399",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "753",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "1126",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "443",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "756",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "275",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "154",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "897",
+"when": "2026-04-15T22:21:43+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(b)",
+"problem": "914",
+"when": "2026-04-15T22:40:46+07:00",
+"event": "added",
+"colour": "",
+"outcome": "15 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "540",
+"when": "2026-04-15T22:52:47+07:00",
+"event": "added",
+"colour": "",
+"outcome": "15 Apr, 2026",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "251",
+"when": "2026-04-16T00:00:59+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Solution to variant problem",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "856",
+"when": "2026-04-16T00:56:10+07:00",
+"event": "added",
+"colour": "",
+"outcome": "15 Apr, 2026 | ?",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "366",
+"when": "2026-04-16T01:17:19+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Conditional partial result |  Aktaş and Murty (2017) | 15 Apr, 2026 | Yes",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "194",
+"when": "2026-04-16T01:35:17+07:00",
+"event": "added",
+"colour": "",
+"outcome": "15 Apr, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "852",
+"when": "2026-04-16T01:39:30+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "15 Apr, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "858",
+"when": "2026-04-16T02:44:26+07:00",
+"event": "added",
+"colour": "",
+"outcome": "15 Apr, 2026 | ?",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "484",
+"when": "2026-04-16T16:03:14+07:00",
+"event": "added",
+"colour": "",
+"outcome": "15 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1196",
+"when": "2026-04-16T17:44:45+07:00",
+"event": "added",
+"colour": "",
+"outcome": "16 Apr, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "872",
+"when": "2026-04-16T19:17:28+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "16 Apr, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1209",
+"when": "2026-04-16T19:34:42+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "15 Apr, 2026  |  Partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1209",
+"when": "2026-04-16T19:37:58+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "15 Apr, 2026  |  Partial result (Lean)",
+"lean": true
+},
+{
+"section": "2(a)",
+"problem": "1198",
+"when": "2026-04-16T21:37:06+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial results found",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1217",
+"when": "2026-04-16T21:42:45+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution [lit?]",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "741",
+"when": "2026-04-16T22:44:15+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟢",
+"outcome": "Full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1196",
+"when": "2026-04-17T00:54:24+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "16 Apr, 2026 |  Full solution (stronger than literature)",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "976",
+"when": "2026-04-17T01:04:57+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "16 Apr, 2026 |  Conditional partial result",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1121",
+"when": "2026-04-17T01:10:25+07:00",
+"event": "added",
+"colour": "",
+"outcome": "16 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "904",
+"when": "2026-04-18T16:22:29+07:00",
+"event": "added",
+"colour": "",
+"outcome": "18 Apr, 2026",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1217",
+"when": "2026-04-18T17:07:00+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1217",
+"when": "2026-04-18T17:07:00+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "2(b)",
+"problem": "280",
+"when": "2026-04-19T20:57:05+07:00",
+"event": "added",
+"colour": "",
+"outcome": "18 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "519",
+"when": "2026-04-19T21:01:40+07:00",
+"event": "added",
+"colour": "",
+"outcome": "19 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "675",
+"when": "2026-04-19T21:48:56+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "18 Apr, 2026 |  Partial result?",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "621",
+"when": "2026-04-19T21:57:59+07:00",
+"event": "added",
+"colour": "",
+"outcome": "19 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1195",
+"when": "2026-04-19T22:35:42+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "19 Apr, 2026 |  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "415",
+"when": "2026-04-19T22:47:35+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "19 Apr, 2026 |  Partial result?",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1136",
+"when": "2026-04-20T14:06:19+07:00",
+"event": "added",
+"colour": "",
+"outcome": "19 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "775",
+"when": "2026-04-20T14:10:38+07:00",
+"event": "added",
+"colour": "",
+"outcome": "19 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1196",
+"when": "2026-04-20T14:28:48+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Tao (2026)",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1062",
+"when": "2026-04-20T15:26:06+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "19 Apr, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "923",
+"when": "2026-04-20T15:42:31+07:00",
+"event": "added",
+"colour": "",
+"outcome": "20 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "514",
+"when": "2026-04-20T22:22:46+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "20 Apr, 2026 |  Partial result?",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "426",
+"when": "2026-04-21T16:29:04+07:00",
+"event": "added",
+"colour": "",
+"outcome": "20 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "602",
+"when": "2026-04-21T16:35:27+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Related results found",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "658",
+"when": "2026-04-21T16:40:30+07:00",
+"event": "added",
+"colour": "",
+"outcome": "20 Apr, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "995",
+"when": "2026-04-21T17:48:51+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "21 Apr, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "996",
+"when": "2026-04-21T17:48:51+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "21 Apr, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "603",
+"when": "2026-04-21T21:07:29+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "21 Apr, 2026 |  Full solution?",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "259",
+"when": "2026-04-22T16:33:27+07:00",
+"event": "added",
+"colour": "",
+"outcome": "21 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "178",
+"when": "2026-04-22T16:37:49+07:00",
+"event": "added",
+"colour": "",
+"outcome": "21 Apr, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "603",
+"when": "2026-04-22T17:01:34+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "21 Apr, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "603",
+"when": "2026-04-22T17:01:34+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "1(d)",
+"problem": "610",
+"when": "2026-04-22T17:20:17+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "21 Apr, 2026 |  Full solution (Lean)",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "524",
+"when": "2026-04-22T17:55:23+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "Sawhney (2025) |  Improved partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "524",
+"when": "2026-04-22T17:55:23+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "21 Apr, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "503",
+"when": "2026-04-22T21:14:51+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "22 Apr, 2026 |  Partial result?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "598",
+"when": "2026-04-22T22:06:39+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "22 Apr, 2026 |  Partial result?",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "296",
+"when": "2026-04-23T17:50:57+07:00",
+"event": "added",
+"colour": "",
+"outcome": "22 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "760",
+"when": "2026-04-23T18:31:55+07:00",
+"event": "added",
+"colour": "",
+"outcome": "23 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "863",
+"when": "2026-04-23T18:37:15+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "22 Apr, 2026 |  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "202",
+"when": "2026-04-23T19:03:57+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "23 Apr, 2026 |  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1190",
+"when": "2026-04-23T19:03:57+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "23 Apr, 2026 |  Full solution?",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "24",
+"when": "2026-04-24T20:56:55+07:00",
+"event": "added",
+"colour": "",
+"outcome": "23 Apr, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "858",
+"when": "2026-04-24T21:23:48+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "15 Apr, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "858",
+"when": "2026-04-24T21:23:48+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "1(a)",
+"problem": "741",
+"when": "2026-04-24T21:29:46+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "Full solution (Lean)",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "863",
+"when": "2026-04-24T21:38:22+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "22 Apr, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "863",
+"when": "2026-04-24T21:38:22+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "1(a)",
+"problem": "1194",
+"when": "2026-04-24T22:13:27+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial result",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1041",
+"when": "2026-04-24T22:38:16+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1014",
+"when": "2026-04-24T22:39:23+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1041",
+"when": "2026-04-24T22:39:23+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "1(d)",
+"problem": "415",
+"when": "2026-04-24T22:53:36+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "19 Apr, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "415",
+"when": "2026-04-24T22:53:36+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(d)",
+"problem": "852",
+"when": "2026-04-24T23:07:55+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "24 Apr, 2026 |  Partial result?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "330",
+"when": "2026-04-24T23:36:04+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "24 Apr, 2026 |  Full solution?",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1098",
+"when": "2026-04-25T16:22:22+07:00",
+"event": "added",
+"colour": "",
+"outcome": "25 Apr, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "521",
+"when": "2026-04-25T16:57:55+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "25 Apr, 2026 |  Solution to variant problem",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "870",
+"when": "2026-04-25T17:23:17+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "24 Apr, 2026 |  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "888",
+"when": "2026-04-25T23:24:01+07:00",
+"event": "added",
+"colour": "",
+"outcome": "25 Apr, 2026 | ?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "906",
+"when": "2026-04-26T18:50:02+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "25 Apr, 2026 |  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "38",
+"when": "2026-04-26T19:09:20+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution?",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "818",
+"when": "2026-04-26T19:14:40+07:00",
+"event": "added",
+"colour": "",
+"outcome": "25 Apr, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1138",
+"when": "2026-04-26T19:46:55+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "25 Apr, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "896",
+"when": "2026-04-26T21:23:42+07:00",
+"event": "added",
+"colour": "",
+"outcome": "26 Apr, 2026 | ?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "451",
+"when": "2026-04-27T20:28:25+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "26 Apr, 2026 |  Partial result?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1131",
+"when": "2026-04-27T20:44:25+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial result?",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "844",
+"when": "2026-04-27T20:59:42+07:00",
+"event": "added",
+"colour": "",
+"outcome": "26 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "427",
+"when": "2026-04-27T21:03:16+07:00",
+"event": "added",
+"colour": "",
+"outcome": "26 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "696",
+"when": "2026-04-27T21:55:35+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "26 Apr, 2026 |  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "956",
+"when": "2026-04-27T22:16:16+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "27 Apr, 2026 |  Full solution?",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1041",
+"when": "2026-04-28T01:51:24+07:00",
+"event": "added",
+"colour": "🔴",
+"outcome": "Argument with major gaps made",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "974",
+"when": "2026-04-28T02:03:24+07:00",
+"event": "added",
+"colour": "",
+"outcome": "27 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1101",
+"when": "2026-04-28T19:49:32+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "27 Apr, 2026 |  Partial result (solution to second part)?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1101",
+"when": "2026-04-28T19:51:19+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "Partial result (solution to second part)?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "535",
+"when": "2026-04-28T20:23:33+07:00",
+"event": "added",
+"colour": "",
+"outcome": "27 Apr, 2026 | ?",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "206",
+"when": "2026-04-28T21:45:17+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "836",
+"when": "2026-04-28T22:32:33+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial result?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "953",
+"when": "2026-04-28T23:09:35+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "27 Apr, 2026 |  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1092",
+"when": "2026-04-28T23:54:14+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "28 Apr, 2026 |  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "38",
+"when": "2026-04-28T10:54:07-07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "25 Apr, 2026 |  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "514",
+"when": "2026-04-28T10:54:07-07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "28 Apr, 2026 |  Partial result?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "535",
+"when": "2026-04-28T10:54:07-07:00",
+"event": "changed",
+"from": "",
+"colour": "🟡",
+"outcome": "27 Apr, 2026 |  Partial result?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "836",
+"when": "2026-04-28T10:54:07-07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "27 Apr, 2026 |  Partial result?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1101",
+"when": "2026-04-28T10:54:07-07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "27 Apr, 2026 |  Partial result (solution to second part)?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1131",
+"when": "2026-04-28T10:54:07-07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "26 Apr, 2026 |  Partial result?",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "675",
+"when": "2026-04-28T10:59:33-07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "18 Apr, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "675",
+"when": "2026-04-28T10:59:33-07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(d)",
+"problem": "856",
+"when": "2026-04-28T11:09:41-07:00",
+"event": "changed",
+"from": "",
+"colour": "🟢",
+"outcome": "15 Apr, 2026 |  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "888",
+"when": "2026-04-28T11:09:41-07:00",
+"event": "changed",
+"from": "",
+"colour": "🟢",
+"outcome": "25 Apr, 2026 |  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "896",
+"when": "2026-04-28T11:09:41-07:00",
+"event": "changed",
+"from": "",
+"colour": "🟢",
+"outcome": "26 Apr, 2026 |  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1190",
+"when": "2026-04-28T11:09:41-07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟡",
+"outcome": "23 Apr, 2026 |  Partial result?",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1195",
+"when": "2026-04-28T11:52:58-07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "19 Apr, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1195",
+"when": "2026-04-28T11:52:58-07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "1(d)",
+"problem": "535",
+"when": "2026-04-28T23:45:45-07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "27 Apr, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "535",
+"when": "2026-04-28T23:45:45-07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(d)",
+"problem": "38",
+"when": "2026-04-29T14:25:20+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "25 Apr, 2026 | 1(a)  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "202",
+"when": "2026-04-29T14:25:20+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "23 Apr, 2026 | 1(d)  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "330",
+"when": "2026-04-29T14:25:20+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "24 Apr, 2026 | 1(d)  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "451",
+"when": "2026-04-29T14:25:20+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "26 Apr, 2026 | 1(d)  Partial result?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "503",
+"when": "2026-04-29T14:25:20+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "22 Apr, 2026 | 1(d)  Partial result?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "514",
+"when": "2026-04-29T14:25:20+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "28 Apr, 2026 | 1(d)  Partial result?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "598",
+"when": "2026-04-29T14:25:20+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "22 Apr, 2026 | 1(d)  Partial result?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "696",
+"when": "2026-04-29T14:25:20+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "26 Apr, 2026 | 1(d)  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "836",
+"when": "2026-04-29T14:25:20+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "27 Apr, 2026 | 1(a)  Partial result?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "852",
+"when": "2026-04-29T14:25:20+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "24 Apr, 2026 | 1(d)  Partial result?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "856",
+"when": "2026-04-29T14:25:20+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "15 Apr, 2026 | 1(d)  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "870",
+"when": "2026-04-29T14:25:20+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "24 Apr, 2026 | 1(d)  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "888",
+"when": "2026-04-29T14:25:20+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "25 Apr, 2026 | 1(d)  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "896",
+"when": "2026-04-29T14:25:20+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "26 Apr, 2026 | 1(d)  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "906",
+"when": "2026-04-29T14:25:20+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "25 Apr, 2026 | 1(d)  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "953",
+"when": "2026-04-29T14:25:20+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "27 Apr, 2026 | 1(d)  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "956",
+"when": "2026-04-29T14:25:20+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "27 Apr, 2026 | 1(d)  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1092",
+"when": "2026-04-29T14:25:20+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "28 Apr, 2026 | 1(d)  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1101",
+"when": "2026-04-29T14:25:20+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "27 Apr, 2026 | 1(a)  Partial result (solution to second part)?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1131",
+"when": "2026-04-29T14:25:20+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "26 Apr, 2026 | 1(a)  Partial result?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1190",
+"when": "2026-04-29T14:25:20+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "23 Apr, 2026 | 1(d)  Partial result?",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1044",
+"when": "2026-04-29T19:28:01+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 Apr, 2026",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "872",
+"when": "2026-04-29T20:17:50+07:00",
+"event": "changed",
+"from": "",
+"colour": "🟡",
+"outcome": "29 Apr, 2026 | 1(d)  Partial result?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "873",
+"when": "2026-04-29T21:49:22+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "29 Apr, 2026 | 1(d)  Partial result?",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "514",
+"when": "2026-04-29T22:01:55+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "28 Apr, 2026 |  Partial result (Lean)",
+"lean": true
+},
+{
+"section": "2(d)",
+"problem": "514",
+"when": "2026-04-29T22:01:55+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "20 Apr, 2026 | 1(d)  Partial result?",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1139",
+"when": "2026-04-29T22:16:10+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(d)",
+"problem": "1133",
+"when": "2026-04-29T22:44:21+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "29 Apr, 2026 | 1(d)  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1143",
+"when": "2026-04-29T23:08:48+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "29 Apr, 2026 | 1(d)  Partial result?",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "535",
+"when": "2026-04-29T12:22:49-07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "27 Apr, 2026 |  Partial result (already implicitly in the literature)",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "535",
+"when": "2026-04-30T16:18:58+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "27 Apr, 2026 |  Partial result (implicit in literature)",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1143",
+"when": "2026-04-30T16:25:52+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "29 Apr, 2026 |  Partial result (implicit in literature)",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1143",
+"when": "2026-04-30T16:25:52+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "1(c)",
+"problem": "1004",
+"when": "2026-04-30T20:31:18+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Pollack, Pomerance, and Treviño (2013) |  Partial result (implicit in literature)",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "873",
+"when": "2026-04-30T22:43:19+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "30 Apr, 2026 | 1(d)  Partial result?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1151",
+"when": "2026-04-30T23:09:22+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "30 Apr, 2026 | 1(d)  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1201",
+"when": "2026-04-30T23:36:24+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "30 Apr, 2026 | 1(d)  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "202",
+"when": "2026-05-01T00:10:23+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "30 Apr, 2026 | 1(d)  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1190",
+"when": "2026-05-01T00:10:23+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟢",
+"outcome": "30 Apr, 2026 | 1(d)  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "983",
+"when": "2026-05-01T01:18:25+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "30 Apr, 2026 | 1(a)  Partial result (solution to first part)?",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "42",
+"when": "2026-05-01T05:01:43+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "27 Apr, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "75",
+"when": "2026-05-01T15:41:32+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "Solution (using prior literature) to previous formulation of problem",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "460",
+"when": "2026-05-01T15:41:32+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "Cheap solution to previous formulation of problem",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "486",
+"when": "2026-05-01T15:41:32+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "Cheap counterexample to previous formulation of problem",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "635",
+"when": "2026-05-01T15:41:32+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "Solution to one part of problem (Lean) |  Elliott (1979) (reduces one part of problem to a much simpler one) | 30 Jan, 2026 | Yes (for a large portion of the proof)",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "935",
+"when": "2026-05-01T15:41:32+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "Solution to one part of problem |  van Doorn (2025) (solution to one part of [367]) | 2 Feb, 2026 | Yes",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "729",
+"when": "2026-05-01T15:41:32+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "Barreto, GPT-5.2-Pro, Aristotle (2026) (full solution to [728]) |  Full solution (Lean)",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "951",
+"when": "2026-05-01T15:41:32+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "Barreto, GPT-5.2 Pro, Leeham (2026) + GPT-5.2 Thinking, Sothanaphan (2026) (solution to one formulation of problem) |  New solution to one formulation of problem",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "38",
+"when": "2026-05-01T20:23:41+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "38",
+"when": "2026-05-01T20:23:41+07:00",
+"event": "added",
+"colour": "",
+"outcome": "1 May, 2026",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "38",
+"when": "2026-05-01T20:23:41+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "1(d)",
+"problem": "696",
+"when": "2026-05-02T22:18:15+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "26 Apr-May 1, 2026 |  Full solution (Lean)",
+"lean": true
+},
+{
+"section": "2(d)",
+"problem": "696",
+"when": "2026-05-02T22:18:15+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "1(a)",
+"problem": "694",
+"when": "2026-05-02T23:29:27+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "696",
+"when": "2026-05-02T23:31:06+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "26 Apr-1 May, 2026 |  Full solution (Lean)",
+"lean": true
+},
+{
+"section": "2(d)",
+"problem": "390",
+"when": "2026-05-03T18:57:28+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "2 May, 2026 | 1(d)  Partial result?",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "639",
+"when": "2026-05-03T19:12:00+07:00",
+"event": "added",
+"colour": "",
+"outcome": "3 May, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1194",
+"when": "2026-05-03T19:46:53+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "2 May, 2026 |  Partial result (Lean)",
+"lean": true
+},
+{
+"section": "2(d)",
+"problem": "750",
+"when": "2026-05-03T20:14:45+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "3 May, 2026 | 1(d)  Full solution?",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "694",
+"when": "2026-05-03T20:24:10+07:00",
+"event": "added",
+"colour": "",
+"outcome": "3 May, 2026",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "397",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "Full solution (Lean) |  China TST competition (2012) | 2 Feb, 2026 | Yes",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "1095",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "Ecklund, Erdős, and Selfridge (1975) |  New proof of (slightly weaker) partial result (Lean)",
+"lean": true
+},
+{
+"section": "2(a)",
+"problem": "1148",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "689",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "401",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "1022",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "281",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "728",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "1(c)",
+"problem": "124",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(a)",
+"problem": "367",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "1139",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "1(a)",
+"problem": "868",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "1(c)",
+"problem": "106",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(a)",
+"problem": "1041",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "96",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "1(c)",
+"problem": "391",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "1(c)",
+"problem": "52",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(a)",
+"problem": "1044",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "203",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "421",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "1038",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "786",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "906",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "707",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "205",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "1(a)",
+"problem": "64",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "700",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "288",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "519",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "543",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "967",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "248",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "1(c)",
+"problem": "67",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(a)",
+"problem": "686",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "124",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "334",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "434",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "940",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "1(a)",
+"problem": "493",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "1(c)",
+"problem": "392",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(a)",
+"problem": "1153",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(a)",
+"problem": "1002",
+"when": "2026-05-03T22:36:39+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "1(b)",
+"problem": "397",
+"when": "2026-05-03T22:43:35+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "Full solution |  China TST competition (2012) | 2 Feb, 2026 | Yes",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "369",
+"when": "2026-05-03T22:43:35+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "26 Mar, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "659",
+"when": "2026-05-03T22:43:35+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "13 Jan, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "288",
+"when": "2026-05-04T00:53:19+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "3 May, 2026 | 1(d)  Partial result?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "283",
+"when": "2026-05-04T02:02:14+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "3 May, 2026 | 1(d)  Full solution?",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "351",
+"when": "2026-05-04T02:02:14+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "3 May, 2026 | 1(d)  Full solution?",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "951",
+"when": "2026-05-04T02:09:07+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "Barreto, GPT-5.2 Pro, and Price (2026) + GPT-5.2 Thinking and Sothanaphan (2026) (solution to one formulation of problem) |  New solution to one formulation of problem",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "729",
+"when": "2026-05-04T02:19:20+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "Aristotle, Barreto, and GPT-5.2 Pro (2026) (full solution to [728]) |  Full solution (Lean)",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "1043",
+"when": "2026-05-04T02:19:20+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "Pommerenke (1961); Aristotle |  New proof found",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "866",
+"when": "2026-05-04T21:07:33+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "4 May, 2026 |  Partial result (Lean)",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "393",
+"when": "2026-05-04T21:26:02+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "3 May, 2026 |  Conditional partial result",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1138",
+"when": "2026-05-04T21:48:19+07:00",
+"event": "added",
+"colour": "",
+"outcome": "4 May, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "164",
+"when": "2026-05-04T21:57:47+07:00",
+"event": "added",
+"colour": "",
+"outcome": "4 May, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "425",
+"when": "2026-05-05T19:57:29+07:00",
+"event": "added",
+"colour": "",
+"outcome": "5 May, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "330",
+"when": "2026-05-05T20:03:21+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "24 Apr, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "330",
+"when": "2026-05-05T20:03:21+07:00",
+"event": "added",
+"colour": "",
+"outcome": "5 May, 2026",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "330",
+"when": "2026-05-05T20:03:21+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "1(d)",
+"problem": "1151",
+"when": "2026-05-06T21:51:00+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "30 Apr, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1151",
+"when": "2026-05-06T21:51:00+07:00",
+"event": "added",
+"colour": "",
+"outcome": "6 May, 2026",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1151",
+"when": "2026-05-06T21:51:00+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "1(d)",
+"problem": "283",
+"when": "2026-05-06T22:19:19+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "3 May, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "351",
+"when": "2026-05-06T22:19:19+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "3 May, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "283",
+"when": "2026-05-06T22:19:19+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "6 May, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "351",
+"when": "2026-05-06T22:19:19+07:00",
+"event": "added",
+"colour": "",
+"outcome": "6 May, 2026",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "351",
+"when": "2026-05-06T22:19:19+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "2(d)",
+"problem": "283",
+"when": "2026-05-06T22:19:19+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "1(d)",
+"problem": "7",
+"when": "2026-05-06T22:58:34+07:00",
+"event": "added",
+"colour": "🔴",
+"outcome": "2 May, 2026 |  Incorrect proof found",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "281",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "GPT-5.2 Pro (2026)",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "392",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Tao (2026)",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "457",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Tao (2026) (extension of problem)",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "543",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "GPT-5.2 Pro (2026)",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "728",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Aristotle and GPT-5.2 Pro (2026)",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "783",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Tao (2026)",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "846",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "DeepMind prover agent (2026)",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "1196",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Tao (2026)",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "334",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "OEIS sequence",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "396",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "OEIS sequence",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "513",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "Numerical certificate",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "650",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "Numerical optimization",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "757",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "Exhaustive verification",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "993",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "Exhaustive verification",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "543",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "2(d)",
+"problem": "846",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "2(d)",
+"problem": "684",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(d)",
+"problem": "271",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(d)",
+"problem": "1196",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "2(c)",
+"problem": "248",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(d)",
+"problem": "42",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(d)",
+"problem": "860",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(c)",
+"problem": "1153",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(d)",
+"problem": "281",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "2(d)",
+"problem": "728",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "2(c)",
+"problem": "682",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(d)",
+"problem": "1044",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(d)",
+"problem": "43",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(c)",
+"problem": "946",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(d)",
+"problem": "783",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(c)",
+"problem": "114",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(d)",
+"problem": "457",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "2(d)",
+"problem": "392",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "2(c)",
+"problem": "69",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(c)",
+"problem": "513",
+"when": "2026-05-06T23:44:02+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "1(c)",
+"problem": "1032",
+"when": "2026-05-07T20:45:30+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Luo, Ma, and Yang (2023) |  Improved partial result (Lean)",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "665",
+"when": "2026-05-07T22:50:35+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "1(a)",
+"problem": "563",
+"when": "2026-05-07T22:50:35+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "1(a)",
+"problem": "514",
+"when": "2026-05-07T22:50:35+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "1(a)",
+"problem": "486",
+"when": "2026-05-07T22:50:35+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "1(a)",
+"problem": "460",
+"when": "2026-05-07T22:50:35+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "1(a)",
+"problem": "850",
+"when": "2026-05-07T22:50:35+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(d)",
+"problem": "1039",
+"when": "2026-05-08T00:42:06+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "7 May, 2026 | 1(a)  Partial result?",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "875",
+"when": "2026-05-08T20:12:43+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "7 May, 2026 |  Partial result (Lean)",
+"lean": true
+},
+{
+"section": "2(b)",
+"problem": "798",
+"when": "2026-05-09T00:01:24+07:00",
+"event": "added",
+"colour": "",
+"outcome": "8 May, 2026",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1039",
+"when": "2026-05-09T05:28:08+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "7 May, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "1039",
+"when": "2026-05-09T05:28:08+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "GPT-5.5 Pro (2026)",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1039",
+"when": "2026-05-09T05:28:08+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "1(a)",
+"problem": "1039",
+"when": "2026-05-09T05:29:40+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "Partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "953",
+"when": "2026-05-09T06:08:53+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "27 Apr, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "953",
+"when": "2026-05-09T06:08:53+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "2(b)",
+"problem": "231",
+"when": "2026-05-10T00:07:55+07:00",
+"event": "added",
+"colour": "",
+"outcome": "9 May, 2026",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "263",
+"when": "2026-05-10T00:22:38+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial result (Lean) (solution to second part)",
+"lean": true
+},
+{
+"section": "2(d)",
+"problem": "514",
+"when": "2026-05-10T23:13:58+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(b)",
+"problem": "42",
+"when": "2026-05-12T18:21:08+07:00",
+"event": "added",
+"colour": "",
+"outcome": "10 May, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "192",
+"when": "2026-05-12T18:28:07+07:00",
+"event": "added",
+"colour": "",
+"outcome": "9-10 May, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1092",
+"when": "2026-05-12T19:18:47+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "28 Apr, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "1092",
+"when": "2026-05-12T19:18:47+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "1(d)",
+"problem": "690",
+"when": "2026-05-12T19:54:41+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "8 May, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1187",
+"when": "2026-05-14T17:11:10+07:00",
+"event": "added",
+"colour": "",
+"outcome": "12 May, 2026",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "327",
+"when": "2026-05-14T18:28:47+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "13 May, 2026 | 1(d)  Partial result?",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "202",
+"when": "2026-05-14T18:59:48+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "23 Apr, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1190",
+"when": "2026-05-14T18:59:48+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "23 Apr, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "202",
+"when": "2026-05-14T18:59:48+07:00",
+"event": "added",
+"colour": "",
+"outcome": "14 May, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1190",
+"when": "2026-05-14T18:59:48+07:00",
+"event": "added",
+"colour": "",
+"outcome": "14 May, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "603",
+"when": "2026-05-17T19:48:45+07:00",
+"event": "added",
+"colour": "",
+"outcome": "17 May, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1039",
+"when": "2026-05-17T20:01:47+07:00",
+"event": "added",
+"colour": "",
+"outcome": "15 May, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "490",
+"when": "2026-05-17T20:15:57+07:00",
+"event": "added",
+"colour": "",
+"outcome": "17 May, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "765",
+"when": "2026-05-17T20:26:15+07:00",
+"event": "added",
+"colour": "",
+"outcome": "16 May, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "345",
+"when": "2026-05-17T22:24:15+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "16 May, 2026 |  Partial result (Lean)",
+"lean": true
+},
+{
+"section": "2(d)",
+"problem": "819",
+"when": "2026-05-17T22:41:06+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "15 May, 2026 | 1(d)  Partial result?",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "425",
+"when": "2026-05-18T00:28:52+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "5-17 May, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "610",
+"when": "2026-05-19T22:02:09+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "21 Apr, 2026 |  Full solution (Lean) (implicit in literature)",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "1148",
+"when": "2026-05-19T22:23:50+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "19 May, 2026 |  Solution to stronger problem",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "983",
+"when": "2026-05-19T23:16:44+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial result (solution to first part)",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "983",
+"when": "2026-05-19T23:16:44+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "1(b)",
+"problem": "983",
+"when": "2026-05-20T01:20:16+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial result (solution to first part) |  Erdős (1970) | 19 May, 2026 | Yes",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "983",
+"when": "2026-05-20T01:20:16+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(a)",
+"problem": "1150",
+"when": "2026-05-21T16:56:37+07:00",
+"event": "changed",
+"from": "",
+"colour": "🟡",
+"outcome": "Claimed solution found (likely incorrect)",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "836",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "Candidate partial result",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1101",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "Candidate partial result (solution to second part)",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1131",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "Candidate partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "202",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "⚪",
+"outcome": "30 Apr, 2026 |  Candidate full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "288",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "3 May, 2026 |  Candidate partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "327",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "13 May, 2026 |  Candidate partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "390",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "2 May, 2026 |  Candidate partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "451",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "26 Apr, 2026 |  Candidate partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "503",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "22 Apr, 2026 |  Candidate partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "598",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "22 Apr, 2026 |  Candidate partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "750",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "3 May, 2026 |  Candidate full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "819",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "15 May, 2026 |  Candidate partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "852",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "⚪",
+"outcome": "24 Apr, 2026 |  Candidate partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "856",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "15 Apr, 2026 |  Candidate full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "870",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "24 Apr, 2026 |  Candidate full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "872",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "⚪",
+"outcome": "29 Apr, 2026 |  Candidate partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "873",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "30 Apr, 2026 |  Candidate partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "888",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "25 Apr, 2026 |  Candidate full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "896",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "26 Apr, 2026 |  Candidate full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "906",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "25 Apr, 2026 |  Candidate full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "956",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "27 Apr, 2026 |  Candidate full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1133",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "29 Apr, 2026 |  Candidate full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1190",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "⚪",
+"outcome": "30 Apr, 2026 |  Candidate full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1201",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "30 Apr, 2026 |  Candidate full solution",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "288",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(d)",
+"problem": "836",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(d)",
+"problem": "503",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(d)",
+"problem": "1133",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "2(d)",
+"problem": "872",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(d)",
+"problem": "888",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "2(d)",
+"problem": "390",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(d)",
+"problem": "852",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(d)",
+"problem": "896",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "2(d)",
+"problem": "327",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(d)",
+"problem": "598",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(d)",
+"problem": "202",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "2(d)",
+"problem": "451",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(d)",
+"problem": "819",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(d)",
+"problem": "873",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(d)",
+"problem": "856",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "2(d)",
+"problem": "1201",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "2(d)",
+"problem": "956",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "2(d)",
+"problem": "1131",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "2(d)",
+"problem": "870",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "2(d)",
+"problem": "1190",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "2(d)",
+"problem": "906",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "2(d)",
+"problem": "750",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "2(d)",
+"problem": "1101",
+"when": "2026-05-21T20:13:10+07:00",
+"event": "removed",
+"from": "🟡"
+},
+{
+"section": "1(d)",
+"problem": "326",
+"when": "2026-05-21T23:57:41+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "20 May, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "327",
+"when": "2026-05-21T23:57:41+07:00",
+"event": "removed",
+"from": "⚪"
+},
+{
+"section": "1(d)",
+"problem": "327",
+"when": "2026-05-21T23:59:51+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "13 May, 2026 |  Candidate partial result",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "90",
+"when": "2026-05-22T00:25:56+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "71",
+"when": "2026-05-25T19:46:34+07:00",
+"event": "added",
+"colour": "",
+"outcome": "24 May, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "24",
+"when": "2026-05-27T21:44:44+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "23 Apr-26 May, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "268",
+"when": "2026-05-27T21:47:15+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "13 Apr-26 May, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "296",
+"when": "2026-05-27T21:49:08+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "22 Apr-26 May, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "503",
+"when": "2026-05-27T22:53:21+07:00",
+"event": "changed",
+"from": "⚪",
+"colour": "🔴",
+"outcome": "22 Apr, 2026 |  Argument with major gaps made",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "56",
+"when": "2026-05-28T03:16:37+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "25 Nov, 2025-27 May, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "888",
+"when": "2026-05-28T19:39:43+07:00",
+"event": "changed",
+"from": "⚪",
+"colour": "🟢",
+"outcome": "25 Apr, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "456",
+"when": "2026-05-28T19:57:57+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "4 May, 2026 |  Candidate partial result (solutions to first part and second part; conditional solution to third part)",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "52",
+"when": "2026-05-28T20:19:34+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "28 May, 2026 |  Solution to variant problem",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "90",
+"when": "2026-05-29T01:50:41+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "21-26 May, 2026 |  Improved explicit bound",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "52",
+"when": "2026-05-29T02:09:50+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "28 May, 2026 |  Improved bound to variant problem",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "90",
+"when": "2026-05-29T05:17:00+07:00",
+"event": "added",
+"colour": "",
+"outcome": "28 May, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "433",
+"when": "2026-05-29T21:44:35+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "24 Feb-29 May, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "434",
+"when": "2026-05-29T21:47:24+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "24 Feb-29 May, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "352",
+"when": "2026-05-29T22:03:30+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "29 May, 2026 |  Partial result of variant problem",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "503",
+"when": "2026-05-29T22:59:47+07:00",
+"event": "changed",
+"from": "🔴",
+"colour": "🟡",
+"outcome": "27-28 May, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "521",
+"when": "2026-05-30T00:36:52+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "⚪",
+"outcome": "30 Apr, 2026 |  Candidate full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "501",
+"when": "2026-05-30T04:39:23+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "29 May, 2026 |  Candidate conditional partial result (conditional solution to first part)",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "514",
+"when": "2026-05-30T04:39:23+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "28 Apr, 2026 |  Partial result (Lean) (solution to third part)",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "896",
+"when": "2026-05-31T22:05:21+07:00",
+"event": "changed",
+"from": "⚪",
+"colour": "🟢",
+"outcome": "26 Apr, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "870",
+"when": "2026-05-31T23:54:45+07:00",
+"event": "changed",
+"from": "⚪",
+"colour": "⚪",
+"outcome": "24 Apr-May 2, 2026 |  Candidate full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "750",
+"when": "2026-06-01T00:50:30+07:00",
+"event": "changed",
+"from": "⚪",
+"colour": "🟢",
+"outcome": "3 May, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "750",
+"when": "2026-06-01T00:50:30+07:00",
+"event": "added",
+"colour": "",
+"outcome": "4 May, 2026",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "836",
+"when": "2026-06-01T02:31:23+07:00",
+"event": "changed",
+"from": "⚪",
+"colour": "⚪",
+"outcome": "Candidate partial result (solution to second part)",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "75",
+"when": "2026-06-01T20:22:49+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "Solution to variant problem (implicit in literature)",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "1077",
+"when": "2026-06-01T20:26:15+07:00",
+"event": "removed",
+"from": "🟢"
+},
+{
+"section": "1(c)",
+"problem": "264",
+"when": "2026-06-01T21:40:43+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "Kovač and Tao (2024) |  New proof of partial result (Lean)",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "654",
+"when": "2026-06-01T21:47:19+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "Partial result",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "951",
+"when": "2026-06-01T21:47:19+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "Solution to variant problem",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "951",
+"when": "2026-06-01T21:47:19+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "Barreto, GPT-5.2 Pro, and Price (2026) + GPT-5.2 Thinking and Sothanaphan (2026) (solution to variant problem) |  New solution to variant problem",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "401",
+"when": "2026-06-01T21:47:19+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "10-11 Jan, 2026 |  Full solution (Lean); solution to variant problem",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "951",
+"when": "2026-06-01T21:47:19+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "28 Jan, 2026 |  New solution to variant problem",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "649",
+"when": "2026-06-01T22:36:17+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "7 Feb-1 Jun, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "501",
+"when": "2026-06-01T22:40:45+07:00",
+"event": "changed",
+"from": "⚪",
+"colour": "⚪",
+"outcome": "29 May-1 Jun, 2026 |  Candidate conditional partial result (conditional solution to first part)",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "689",
+"when": "2026-06-02T23:29:05+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "29 Oct, 2025-2 Jun, 2026 |  Candidate full solution",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "760",
+"when": "2026-06-03T22:33:31+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "23 Apr-2 Jun, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "762",
+"when": "2026-06-03T22:36:25+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "8 Feb-3 Jun, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "775",
+"when": "2026-06-03T22:49:59+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "19 Apr-3 Jun, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "90",
+"when": "2026-06-04T22:04:05+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "21 May-3 Jun, 2026 |  Improved explicit bound",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "52",
+"when": "2026-06-04T22:43:30+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Solution to variant problem",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "52",
+"when": "2026-06-04T22:43:30+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "4 Jun, 2026 |  Solution to variant problem",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "52",
+"when": "2026-06-04T22:46:20+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "⚪",
+"outcome": "4 Jun, 2026 |  Candidate solution to variant problem",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "623",
+"when": "2026-06-05T03:40:05+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "4 Jun, 2026 |  Candidate full solution",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "694",
+"when": "2026-06-05T22:19:03+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "3 May-5 Jun, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "696",
+"when": "2026-06-05T22:22:53+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "26 Apr-5 Jun, 2026 |  Full solution (Lean)",
+"lean": true
+},
+{
+"section": "2(b)",
+"problem": "927",
+"when": "2026-06-05T22:32:25+07:00",
+"event": "added",
+"colour": "",
+"outcome": "5 Jun, 2026",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "757",
+"when": "2026-06-06T21:27:06+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(d)",
+"problem": "993",
+"when": "2026-06-06T21:27:06+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "2(d)",
+"problem": "334",
+"when": "2026-06-06T21:27:06+07:00",
+"event": "removed",
+"from": ""
+},
+{
+"section": "1(d)",
+"problem": "90",
+"when": "2026-06-08T22:04:19+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "21 May-8 Jun, 2026 |  Improved explicit bound",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "931",
+"when": "2026-06-09T03:55:52+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "12 Mar-8 Jun, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "90",
+"when": "2026-06-09T22:02:11+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "21 May-9 Jun, 2026 |  Improved explicit bound",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "539",
+"when": "2026-06-11T20:27:48+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial result (Lean)",
+"lean": true
+},
+{
+"section": "2(b)",
+"problem": "165",
+"when": "2026-06-11T22:36:47+07:00",
+"event": "added",
+"colour": "",
+"outcome": "10 Jun, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "986",
+"when": "2026-06-11T22:44:06+07:00",
+"event": "added",
+"colour": "",
+"outcome": "10 Jun, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1038",
+"when": "2026-06-11T22:56:19+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "🟡",
+"outcome": "16 Dec, 2025-10 Jun, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "90",
+"when": "2026-06-13T00:21:38+07:00",
+"event": "changed",
+"from": "",
+"colour": "",
+"outcome": "28 May-12 Jun, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "326",
+"when": "2026-06-14T20:36:16+07:00",
+"event": "changed",
+"from": "🟢",
+"colour": "🟢",
+"outcome": "20 May-14 Jun, 2026 |  Full solution (Lean)",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "942",
+"when": "2026-06-14T22:27:05+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "13-14 Jun, 2026 |  Partial result (Lean)",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "1208",
+"when": "2026-06-14T23:12:20+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "14 Jun, 2026 |  Candidate partial result",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "619",
+"when": "2026-06-15T23:41:47+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Full solution (Lean)",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "306",
+"when": "2026-06-19T02:54:13+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "17 Jun, 2026 |  Partial result (Lean)",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "451",
+"when": "2026-06-19T22:20:17+07:00",
+"event": "changed",
+"from": "⚪",
+"colour": "🟡",
+"outcome": "26 Apr-19 Jun, 2026 |  Partial result (Lean)",
+"lean": true
+},
+{
+"section": "2(b)",
+"problem": "328",
+"when": "2026-06-19T23:00:04+07:00",
+"event": "added",
+"colour": "",
+"outcome": "19 Jun, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "403",
+"when": "2026-06-19T23:13:28+07:00",
+"event": "added",
+"colour": "",
+"outcome": "19 Jun, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1134",
+"when": "2026-06-19T23:23:06+07:00",
+"event": "added",
+"colour": "",
+"outcome": "19 Jun, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "441",
+"when": "2026-06-19T23:29:13+07:00",
+"event": "added",
+"colour": "",
+"outcome": "19 Jun, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "209",
+"when": "2026-06-19T23:32:43+07:00",
+"event": "added",
+"colour": "",
+"outcome": "19 Jun, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1139",
+"when": "2026-06-19T23:57:21+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "26 Jan-19 Jun, 2026 |  Candidate full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "81",
+"when": "2026-06-20T00:35:10+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "19 Jun, 2026 |  Partial result (Lean)",
+"lean": true
+},
+{
+"section": "2(b)",
+"problem": "1095",
+"when": "2026-06-21T01:21:45+07:00",
+"event": "added",
+"colour": "",
+"outcome": "20 Jun, 2026",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "353",
+"when": "2026-06-21T01:28:25+07:00",
+"event": "added",
+"colour": "",
+"outcome": "19-20 Jun, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "306",
+"when": "2026-06-21T02:16:52+07:00",
+"event": "changed",
+"from": "🟡",
+"colour": "⚪",
+"outcome": "19 Jun, 2026 |  Candidate full solution (Lean)",
+"lean": true
+},
+{
+"section": "2(b)",
+"problem": "716",
+"when": "2026-06-21T02:41:49+07:00",
+"event": "added",
+"colour": "",
+"outcome": "20 Jun, 2026",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "346",
+"when": "2026-06-21T04:08:02+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Solution to variant problem (Lean) |  Burr and Erdős (1981) | 20 Jun, 2026 | Yes",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "346",
+"when": "2026-06-21T22:30:45+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "21 Jun, 2026 |  Full solution (Lean)",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "986",
+"when": "2026-06-21T22:41:18+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "27 May-16 Jun, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "176",
+"when": "2026-06-22T00:19:17+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial result (Lean) |  Hunter (2026) | 21 Jun, 2026 | Yes",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "948",
+"when": "2026-06-22T05:40:10+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "Erdős and Galvin (1991) |  Full solution (Lean)",
+"lean": true
+},
+{
+"section": "2(b)",
+"problem": "464",
+"when": "2026-06-22T12:16:32+07:00",
+"event": "added",
+"colour": "",
+"outcome": "21 Jun, 2026",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "536",
+"when": "2026-06-23T00:06:06+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "Partial result (Lean)",
+"lean": true
+},
+{
+"section": "2(b)",
+"problem": "512",
+"when": "2026-06-23T05:21:07+07:00",
+"event": "added",
+"colour": "",
+"outcome": "22 Jun, 2026",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "768",
+"when": "2026-06-23T23:57:21+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "22 Jun, 2026 |  Candidate full solution",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1054",
+"when": "2026-06-24T00:14:14+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "Candidate partial result (Lean)",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "176",
+"when": "2026-06-24T00:25:34+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "Candidate partial result (Lean)",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "550",
+"when": "2026-06-24T00:55:35+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "Candidate full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "400",
+"when": "2026-06-24T01:02:11+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "22 Jun, 2026 |  Candidate partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "432",
+"when": "2026-06-24T01:08:25+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "23 Jun, 2026 |  Candidate partial result",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "671",
+"when": "2026-06-24T01:17:14+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "Candidate full solution (Lean)",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "593",
+"when": "2026-06-24T23:54:12+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "23 Jun, 2026 |  Candidate full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1177",
+"when": "2026-06-24T23:54:12+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "23 Jun, 2026 |  Candidate full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "21",
+"when": "2026-06-25T00:03:10+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "23 Jun, 2026 |  Partial result (Lean)",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "1054",
+"when": "2026-06-25T04:21:29+07:00",
+"event": "changed",
+"from": "⚪",
+"colour": "🟡",
+"outcome": "Partial result (Lean)",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "730",
+"when": "2026-06-25T04:29:57+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "Candidate full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1061",
+"when": "2026-06-26T00:23:31+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "24 Jun, 2026 |  Candidate full solution",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "865",
+"when": "2026-06-26T00:30:52+07:00",
+"event": "added",
+"colour": "🟢",
+"outcome": "21-22 Jun, 2026 |  Full solution",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1033",
+"when": "2026-06-28T21:50:15+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "Candidate partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1070",
+"when": "2026-06-29T22:14:19+07:00",
+"event": "added",
+"colour": "🟡",
+"outcome": "29 Jun, 2026 |  Partial result",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "36",
+"when": "2026-06-29T22:26:19+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "Candidate partial result",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "731",
+"when": "2026-06-30T22:29:18+07:00",
+"event": "added",
+"colour": "⚪",
+"outcome": "27 Jun, 2026 |  Candidate full solution",
+"lean": false
+}
+]

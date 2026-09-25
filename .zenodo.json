@@ -1,0 +1,13 @@
+{
+  "title": "The verification gap in AI-assisted Erdős problem solving: dataset and code",
+  "upload_type": "dataset",
+  "description": "<p>Data and analysis code for S. Olagoke, <em>Faster Than They Can Be Checked: Measuring the verification gap in AI-assisted solutions to Erdős problems</em> (2026). It contains all 251 public proof claims on erdosproblems.com from 14 Jul to 24 Sep 2026, with hand-coded verdicts (see CODEBOOK.md), status timelines from the Erdős problems database git history, the edit history of the AI-contributions ledger, and all code and figures. Collected 25 Sep 2026 from public sources. Reviewer identities are pseudonymised. The licensing is mixed: our annotations are CC BY 4.0, the code is MIT, and data derived from the Erdős problems database is Apache-2.0. See README.md.</p>",
+  "creators": [{"name": "Olagoke, Subomi", "affiliation": "Independent Researcher"}],
+  "license": "cc-by-4.0",
+  "keywords": ["Erdős problems", "AI for mathematics", "verification", "large language models", "Lean", "formal verification", "meta-science"],
+  "related_identifiers": [
+    {"identifier": "https://www.subomi.net/papers/faster-than-they-can-be-checked", "relation": "isSupplementTo", "resource_type": "publication-preprint"},
+    {"identifier": "https://github.com/teorth/erdosproblems", "relation": "isDerivedFrom", "resource_type": "dataset"}
+  ],
+  "version": "1.0.0"
+}

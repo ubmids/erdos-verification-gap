@@ -1,0 +1,4844 @@
+[
+{
+"section": "1(a)",
+"problem": "11",
+"ai": "Aristotle, GPT",
+"date": "24 Jan, 2026",
+"outcome": "Incorrect claim made",
+"colour": "🔴",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "36",
+"ai": "GPT-5.5 Pro",
+"date": "29 Jun, 2026",
+"outcome": "Candidate partial result",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "38",
+"ai": "GPT-5.5 Pro",
+"date": "25 Apr, 2026",
+"outcome": "Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "42",
+"ai": "Codex, GPT-5.2, GPT-5.2 Pro",
+"date": "19 Jan, 2026",
+"outcome": "Partial result (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "51",
+"ai": "ChatGPT free version",
+"date": "11 Jan, 2026",
+"outcome": "Incorrect proof found",
+"colour": "🔴",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "52",
+"ai": "Claude Mythos",
+"date": "3 Jun, 2026",
+"outcome": "Solution to variant problem",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "75",
+"ai": "Aletheia",
+"date": "1 Feb, 2026",
+"outcome": "Solution to variant problem (implicit in literature)",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "90",
+"ai": "OpenAI internal model",
+"date": "20 May, 2026",
+"outcome": "Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "90",
+"ai": "Claude Mythos",
+"date": "26 May, 2026",
+"outcome": "Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "124",
+"ai": "Aristotle",
+"date": "29 Nov, 2025",
+"outcome": "Partial result (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "125",
+"ai": "DeepMind prover agent",
+"date": "21 Feb, 2026",
+"outcome": "Solution to variant problem (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "125",
+"ai": "DeepMind prover agent",
+"date": "30 Mar, 2026",
+"outcome": "Full solution (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "138",
+"ai": "DeepMind prover agent",
+"date": "10 Apr, 2026",
+"outcome": "Partial result (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "176",
+"ai": "Codex, GPT-5.5 Pro",
+"date": "23 Jun, 2026",
+"outcome": "Candidate partial result (Lean)",
+"colour": "⚪",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "205",
+"ai": "Aristotle, GPT-5.2 Thinking",
+"date": "10 Jan, 2026",
+"outcome": "Full solution (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "233",
+"ai": "GPT-5.2 Pro",
+"date": "18 Jan, 2026",
+"outcome": "Incorrect (conditional) proof found",
+"colour": "🔴",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "251",
+"ai": "GPT-5.4 Pro",
+"date": "15 Apr, 2026",
+"outcome": "Solution to variant problem",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "263",
+"ai": "Aristotle, Claude Opus 4.7, GPT-5.5 Pro",
+"date": "9 May, 2026",
+"outcome": "Partial result (Lean) (solution to second part)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "358",
+"ai": "GPT-5.2 Pro",
+"date": "11 Feb, 2026",
+"outcome": "Argument with major gaps made",
+"colour": "🔴",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "457",
+"ai": "Aristotle, GPT-5.2 Pro",
+"date": "2 Mar, 2026",
+"outcome": "Full solution (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "477",
+"ai": "AlphaProof",
+"date": "7 Jan, 2026",
+"outcome": "Solution to variant problem (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "536",
+"ai": "Codex, GPT-5.5 Pro",
+"date": "22 Jun, 2026",
+"outcome": "Partial result (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "539",
+"ai": "Codex, GPT-5.5, ProofCouncil",
+"date": "10 Jun, 2026",
+"outcome": "Partial result (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "550",
+"ai": "GPT",
+"date": "22 Jun, 2026",
+"outcome": "Candidate full solution",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "616",
+"ai": "Claude Sonnet 4.5, Gemini 3 Pro, GPT-5.2 Pro",
+"date": "18 Jan, 2026",
+"outcome": "Incorrect proof found",
+"colour": "🔴",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "619",
+"ai": "Claude Fable 5, Codex, GPT-5.5",
+"date": "9 Jun, 2026",
+"outcome": "Full solution (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "647",
+"ai": "ChatGPT Deep research, DeepSeek DeepThink, Gemini",
+"date": "28 Jan, 2026",
+"outcome": "Incorrect proof found",
+"colour": "🔴",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "654",
+"ai": "Aletheia",
+"date": "1 Feb, 2026",
+"outcome": "Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "671",
+"ai": "Codex, GPT-5.5 Pro",
+"date": "22 Jun, 2026",
+"outcome": "Candidate full solution (Lean)",
+"colour": "⚪",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "684",
+"ai": "OpenAI internal model",
+"date": "31 Mar, 2026",
+"outcome": "Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "694",
+"ai": "GPT-5.5 Pro",
+"date": "1 May, 2026",
+"outcome": "Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "730",
+"ai": "GPT-5.5 Pro",
+"date": "24 Jun, 2026",
+"outcome": "Candidate full solution",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "741",
+"ai": "DeepMind prover agent",
+"date": "31 Mar, 2026",
+"outcome": "Partial result (Lean) (solution to variant of first part; solution to second part)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "741",
+"ai": "OpenAI internal model",
+"date": "31 Mar, 2026",
+"outcome": "Partial result (solution to second part)",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "741",
+"ai": "DeepMind prover agent",
+"date": "16 Apr, 2026",
+"outcome": "Full solution (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "783",
+"ai": "GPT-5.2",
+"date": "23 Jan, 2026",
+"outcome": "Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "836",
+"ai": "GPT-5.5 Pro",
+"date": "27 Apr, 2026",
+"outcome": "Candidate partial result (solution to second part)",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "872",
+"ai": "GPT-5.2 Pro",
+"date": "16 Feb, 2026",
+"outcome": "Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "888",
+"ai": "Claude Opus 4.5, Gemini 3 Pro, GPT-5.2 Thinking",
+"date": "18 Jan, 2026",
+"outcome": "Incorrect proof found",
+"colour": "🔴",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "949",
+"ai": "AlphaProof",
+"date": "7 Jan, 2026",
+"outcome": "Solution to variant problem (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "951",
+"ai": "GPT-5.2 Pro",
+"date": "27 Jan, 2026",
+"outcome": "Solution to variant problem",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "960",
+"ai": "OpenAI internal model",
+"date": "9 Apr, 2026",
+"outcome": "Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "963",
+"ai": "Gemini 3 Pro",
+"date": "22 Jan, 2026",
+"outcome": "Argument with major gaps made",
+"colour": "🔴",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "987",
+"ai": "OpenAI internal model",
+"date": "9 Apr, 2026",
+"outcome": "Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "990",
+"ai": "OpenAI internal model",
+"date": "9 Apr, 2026",
+"outcome": "Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1014",
+"ai": "OpenAI internal model",
+"date": "23 Apr, 2026",
+"outcome": "Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1033",
+"ai": "GPT-5.5 Pro",
+"date": "27 Jun, 2026",
+"outcome": "Candidate partial result",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1039",
+"ai": "GPT-5.5 Pro",
+"date": "7 May, 2026",
+"outcome": "Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1040",
+"ai": "Aletheia",
+"date": "1 Feb, 2026",
+"outcome": "Solution to one part of problem;  incorrect solution to other part",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1041",
+"ai": "GPT-5.4 Thinking",
+"date": "22 Apr, 2026",
+"outcome": "Argument with major gaps made",
+"colour": "🔴",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1044",
+"ai": "GPT-5.2 Pro",
+"date": "5 Jan, 2026",
+"outcome": "Incorrect claim made",
+"colour": "🔴",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1051",
+"ai": "Aletheia",
+"date": "29 Jan, 2026",
+"outcome": "Full solution (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "1054",
+"ai": "Claude Opus 4.8, GPT-5.5 Pro, Principia Math",
+"date": "22-23 Jun, 2026",
+"outcome": "Partial result (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(a)",
+"problem": "1091",
+"ai": "OpenAI internal model",
+"date": "9 Apr, 2026",
+"outcome": "Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1101",
+"ai": "GPT-5.5 Pro",
+"date": "27 Apr, 2026",
+"outcome": "Candidate partial result (solution to second part)",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1131",
+"ai": "GPT-5.5 Pro",
+"date": "26 Apr, 2026",
+"outcome": "Candidate partial result",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1141",
+"ai": "OpenAI internal model",
+"date": "9 Apr, 2026",
+"outcome": "Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1194",
+"ai": "GPT-5.4 Pro",
+"date": "23 Apr, 2026",
+"outcome": "Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1196",
+"ai": "GPT-5.4 Pro",
+"date": "13 Apr, 2026",
+"outcome": "Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1202",
+"ai": "GPT-5.4 Pro",
+"date": "1 Apr, 2026",
+"outcome": "Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(a)",
+"problem": "1217",
+"ai": "GPT-5.4 Pro",
+"date": "16 Apr, 2026",
+"outcome": "Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "120",
+"ai": "DeepMind prover agent",
+"date": "14 Mar, 2026",
+"outcome": "Solution to variant problem (Lean) |  de Reyna (1983) | 14 Mar, 2026 | No",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "152",
+"ai": "DeepMind prover agent",
+"date": "3 Apr, 2026",
+"outcome": "Full solution (Lean) |  Erdős, Sárközy, and Sós (1994) | 3 Apr, 2026 | Yes",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "176",
+"ai": "Codex, GPT-5.5 Pro",
+"date": "21 Jun, 2026",
+"outcome": "Partial result (Lean) |  Hunter (2026) | 21 Jun, 2026 | Yes",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "218",
+"ai": "GPT",
+"date": "28 Jan, 2026",
+"outcome": "Conditional solution |  Banks (2023) | 28 Jan, 2026 | Yes",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "281",
+"ai": "GPT-5.2 Pro",
+"date": "17 Jan, 2026",
+"outcome": "Full solution |  Davenport and Erdős (1936) + Rogers (in Halberstam-Roth (1966)) | 18 Jan, 2026 | No",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "333",
+"ai": "Claude Opus 4.5, GPT-5.2 Pro",
+"date": "25 Dec, 2025",
+"outcome": "Full solution (Lean) |  Erdős and Newman (1977) | 25 Dec, 2025 | Yes",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "346",
+"ai": "Codex, GPT-5.5 Pro",
+"date": "19 Jun, 2026",
+"outcome": "Solution to variant problem (Lean) |  Burr and Erdős (1981) | 20 Jun, 2026 | Yes",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "366",
+"ai": "Automated research pipeline",
+"date": "14 Apr, 2026",
+"outcome": "Conditional partial result |  Aktaş and Murty (2017) | 15 Apr, 2026 | Yes",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "397",
+"ai": "Aristotle, GPT-5.2 Pro",
+"date": "10 Jan, 2026",
+"outcome": "Full solution (Lean) |  China TST competition (2012) | 14 Jan, 2026 | Yes",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "397",
+"ai": "Aletheia",
+"date": "2 Feb, 2026",
+"outcome": "Full solution |  China TST competition (2012) | 2 Feb, 2026 | Yes",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "543",
+"ai": "GPT-5.2 Pro",
+"date": "21 Jan, 2026",
+"outcome": "Full solution |  Erdős and Hall (1977) | 26 Jan, 2026 | Yes",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "629",
+"ai": "Gemini 3.1 Pro, GPT-5.4 Thinking",
+"date": "4 Apr, 2026",
+"outcome": "Partial result |  Erdős (1964) + Erdős, Rubin, and Taylor (1980) | 4 Apr, 2026 | Yes",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "635",
+"ai": "Aristotle, GPT-5.2 Pro",
+"date": "30 Jan, 2026",
+"outcome": "Solution to one part of problem (Lean) |  Elliott (1979) (reduces one part of problem to a much simpler one) | 30 Jan, 2026 | Yes (for a large portion of the proof)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "650",
+"ai": "GPT-5.4 Pro",
+"date": "6-7 Mar, 2026",
+"outcome": "Full solution (stronger than literature) |  Erdős and Selfridge (1978) | 7 Mar, 2026 | No",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "659",
+"ai": "Aletheia",
+"date": "2 Feb, 2026",
+"outcome": "Full solution |  Sheffer and Lund (2014);  Grayzel (2026) | 2 Feb, 2026; 14 Jan, 2026 | Yes",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "728",
+"ai": "Aristotle, GPT-5.2 Pro",
+"date": "6 Jan, 2026",
+"outcome": "Full solution (Lean) |  Pomerance (2014) | 5-6 Jan, 2026 | Yes",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "846",
+"ai": "DeepMind prover agent; OpenAI internal model (independently)",
+"date": "21-25 Feb, 2026",
+"outcome": "Full solution (Lean);  Full solution |  Reiher, Rödl, and Sales (2024) | 25 Feb, 2026 | No",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "851",
+"ai": "GPT-5.2 Pro",
+"date": "Feb 5, 2026",
+"outcome": "Full solution (building upon  Romanoff (1934)) | Matthews (1982);  Green and Sawhney (unpublished) | 6 Feb, 2026 | Yes",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "897",
+"ai": "Archivara, Aristotle",
+"date": "26 Dec, 2025",
+"outcome": "Full solution (Lean) |  Wirsing (1981) | 26 Dec, 2025 | Yes",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "935",
+"ai": "Aletheia",
+"date": "1 Feb, 2026",
+"outcome": "Solution to one part of problem |  van Doorn (2025) (solution to one part of [367]) | 2 Feb, 2026 | Yes",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "983",
+"ai": "GPT-5.5 Pro",
+"date": "30 Apr, 2026",
+"outcome": "Partial result (solution to first part) |  Erdős (1970) | 19 May, 2026 | Yes",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "997",
+"ai": "OpenAI internal model",
+"date": "31 Mar, 2026",
+"outcome": "Full solution |  Benatar (2014) | 1 Apr, 2026 | Yes",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(b)",
+"problem": "1026",
+"ai": "Aristotle",
+"date": "7 Dec, 2025",
+"outcome": "Full solution (Lean) |  Tidor, Wang, and Yang (2016) | 8 Dec, 2025 | Only after applying an argument from Seidenberg (1959)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "1082",
+"ai": "DeepMind prover agent",
+"date": "14 Feb, 2026",
+"outcome": "Counterexample to one part (Lean) |  Fishburn (2002) | 25 Feb, 2026 | Yes",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(b)",
+"problem": "1089",
+"ai": "Aletheia",
+"date": "1 Feb, 2026",
+"outcome": "Full solution found |  Bannai and Bannai (1981) | 1 Feb, 2026 | Yes",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "12",
+"ai": "DeepMind prover agent",
+"date": "7 Apr, 2026",
+"outcome": "Erdős and Sárközy (1970) |  Partial result (Lean) (solutions to first part and second part)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "26",
+"ai": "DeepMind prover agent",
+"date": "6 Apr, 2026",
+"outcome": "Ruzsa |  Solution to stronger problem",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "36",
+"ai": "AlphaEvolve",
+"date": "3 Nov, 2025",
+"outcome": "Haugland (2016) |  Slight improvement to past construction",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "43",
+"ai": "Aristotle",
+"date": "4 Dec, 2025",
+"outcome": "Barreto (2025) |  New proof of partial result (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "75",
+"ai": "GPT-5.4 Pro",
+"date": "12 Apr, 2026",
+"outcome": "Erdős, Hajnal, and Szemerédi (1982) |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "198",
+"ai": "AlphaProof",
+"date": "2025",
+"outcome": "Baumgartner (1975) |  New proof found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "224",
+"ai": "Codex, GPT-5.2 Thinking",
+"date": "14 Jan, 2026",
+"outcome": "Danzer and Grünbaum (1962) |  New proof found (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "258",
+"ai": "GPT-5.4 Pro",
+"date": "14 Apr, 2026",
+"outcome": "Tao and Teräväinen (2025) |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "264",
+"ai": "Aristotle",
+"date": "18 Dec, 2025",
+"outcome": "Kovač and Tao (2024) |  New proof of partial result (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "349",
+"ai": "GPT-5.2 Thinking",
+"date": "9 Mar, 2026",
+"outcome": "van Doorn (2026) |  Improved partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "379",
+"ai": "Seed Prover 1.5",
+"date": "21 Dec, 2025",
+"outcome": "Cambie, Kovač, and Tao (2025) |  New proof found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "488",
+"ai": "Aristotle",
+"date": "27 Nov, 2025",
+"outcome": "Cambie (2025) |  New solution to variant problem (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "493",
+"ai": "Aristotle, GPT, Seed Prover",
+"date": "2025",
+"outcome": "Seamans (2025) |  New or existing proof found (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "507",
+"ai": "AlphaEvolve",
+"date": "3 Nov, 2025",
+"outcome": "Friedman (2015) |  Surpassed some past constructions",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "513",
+"ai": "GPT-5.2 Thinking",
+"date": "1 Mar, 2026",
+"outcome": "He and Tang (2026) |  Slight improvement to past construction",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "524",
+"ai": "Gemini, GPT-5.2, Grok",
+"date": "30 Jan, 2026",
+"outcome": "Sawhney (2025) |  Improved partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "679",
+"ai": "Aristotle",
+"date": "12 Jan, 2026",
+"outcome": "DottedCalculator (2025) |  Improved proof by reducing dependence on prime number theorem",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "729",
+"ai": "Aristotle, GPT-5.2 Pro",
+"date": "8-10 Jan, 2026",
+"outcome": "Aristotle, Barreto, and GPT-5.2 Pro (2026) (full solution to [728]) |  Full solution (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "788",
+"ai": "GPT-5.2 Pro",
+"date": "20 Jan, 2026",
+"outcome": "Hunter (2025) |  New partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "848",
+"ai": "Gemini 3.1 Pro, GPT-5.2 Thinking, GPT-5.4 Thinking",
+"date": "5-23 Mar, 2026",
+"outcome": "Sawhney (2025) |  Derived explicit bound;  Partial result of variant problem",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "868",
+"ai": "GPT-5.2 multi-agent system",
+"date": "13 Jan, 2026",
+"outcome": "Erdős and Nathanson (1989) |  New partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "871",
+"ai": "Claude Opus 4.5, Gemini 3 Pro",
+"date": "5 Jan, 2026",
+"outcome": "Erdős and Nathanson (1989) |  Existing partial result upgraded to full solution (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "942",
+"ai": "Gemini",
+"date": "23 Nov, 2025",
+"outcome": "Erdős (unpublished, 1976) |  New proof found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "948",
+"ai": "Aristotle, GPT-5.5 Pro",
+"date": "21 Jun, 2026",
+"outcome": "Erdős and Galvin (1991) |  Full solution (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "951",
+"ai": "AlphaEvolve",
+"date": "28 Jan, 2026",
+"outcome": "Barreto, GPT-5.2 Pro, and Price (2026) + GPT-5.2 Thinking and Sothanaphan (2026) (solution to variant problem) |  New solution to variant problem",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "958",
+"ai": "Aristotle",
+"date": "27 Dec, 2025",
+"outcome": "Clemen, Dumitrescu, and Liu (2025) |  New proof found (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "966",
+"ai": "Aristotle",
+"date": "25 Feb, 2026",
+"outcome": "Spencer (unpublished) |  Full solution (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "1004",
+"ai": "GPT-5.5 Pro",
+"date": "29 Apr, 2026",
+"outcome": "Pollack, Pomerance, and Treviño (2013) |  Partial result (implicit in literature)",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "1007",
+"ai": "Aristotle",
+"date": "19 Jan, 2026",
+"outcome": "House (2013);  Chaffee and Noble (2016) |  New proof found (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "1032",
+"ai": "Codex, GPT-5.5 Pro",
+"date": "7 May, 2026",
+"outcome": "Luo, Ma, and Yang (2023) |  Improved partial result (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "1043",
+"ai": "Aristotle",
+"date": "28 Dec, 2025",
+"outcome": "Pommerenke (1961) |  New proof found (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "1043",
+"ai": "GPT",
+"date": "30 Dec, 2025",
+"outcome": "Pommerenke (1961); Aristotle |  New proof found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "1047",
+"ai": "Aristotle",
+"date": "21 Jan, 2026",
+"outcome": "Goodman (1966) |  New proof found (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "1048",
+"ai": "Aristotle",
+"date": "28 Jan, 2026",
+"outcome": "Pommerenke (1961) |  Proof found (Lean), which is a specific case of Pommerenke",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "1090",
+"ai": "Aristotle, Gemini 3 Flash",
+"date": "27 Feb, 2026",
+"outcome": "Graham and Selfridge (unpublished, ~1975) |  Proof found (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "1095",
+"ai": "Aristotle",
+"date": "30 Dec, 2025",
+"outcome": "Ecklund, Erdős, and Selfridge (1975) |  New proof of (slightly weaker) partial result (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(c)",
+"problem": "1097",
+"ai": "AlphaEvolve",
+"date": "3 Nov, 2025",
+"outcome": "Lemm (2015) |  Slight improvement to past construction",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(c)",
+"problem": "1197",
+"ai": "Aristotle, Claude Opus 4.7, GPT-5.4 Pro",
+"date": "13 Apr-21 Jun, 2026",
+"outcome": "Buczolich and Mauldin (1999) |  Full solution (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "7",
+"ai": "Jinook Lee",
+"date": "Aristotle",
+"outcome": "2 May, 2026 |  Incorrect proof found",
+"colour": "🔴",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "12",
+"ai": "Nat Sothanaphan, Terence Tao",
+"date": "GPT-5.4 Thinking",
+"outcome": "7 Apr, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "21",
+"ai": "Varun Sivashankar",
+"date": "Aristotle, GPT-5.5 Pro",
+"outcome": "23 Jun, 2026 |  Partial result (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "25",
+"ai": "Przemek Chojecki",
+"date": "GPT-5.4 Pro",
+"outcome": "19 Mar, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "42",
+"ai": "Harjas Sandhu",
+"date": "GPT-5.5 Pro",
+"outcome": "27 Apr, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "52",
+"ai": "Thomas Bloom, Will Sawin, Carl Schildkraut, Dmitrii Zhelezov",
+"date": "GPT-5.5 Pro",
+"outcome": "28 May, 2026 |  Solution to variant problem",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "52",
+"ai": "Ingo Althöfer",
+"date": "GPT-5.5",
+"outcome": "28 May, 2026 |  Improved bound to variant problem",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "52",
+"ai": "Boris Alexeev",
+"date": "GPT-5.5",
+"outcome": "4 Jun, 2026 |  Candidate solution to variant problem",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "81",
+"ai": "Wouter van Doorn",
+"date": "Aristotle, GPT-5.5 Pro",
+"outcome": "19 Jun, 2026 |  Partial result (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "90",
+"ai": "Ingo Althöfer, Michael Emmerich, Paata Ivanisvili, Tomasz Kania, leloy, mlewko, Eric Naslund, norxornor, Will Sawin, Carl Schildkraut, spiderduckpig, Tseng",
+"date": "GPT-5.5 Pro",
+"outcome": "21 May-9 Jun, 2026 |  Improved explicit bound",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "138",
+"ai": "Nat Sothanaphan",
+"date": "GPT-5.4 Thinking",
+"outcome": "10 Apr, 2026 |  Partial result of variant problem",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "202",
+"ai": "Boon Suan Ho",
+"date": "GPT-5.4 Pro",
+"outcome": "23 Apr, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "202",
+"ai": "Przemek Chojecki",
+"date": "GPT-5.5 Pro",
+"outcome": "30 Apr, 2026 |  Candidate full solution",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "283",
+"ai": "Kevin Barreto, Liam Price",
+"date": "GPT-5.5 Pro",
+"outcome": "3 May, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "288",
+"ai": "Ritvik Nayak",
+"date": "GPT-5.5 Thinking",
+"outcome": "3 May, 2026 |  Candidate partial result",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "306",
+"ai": "Shisheng Li",
+"date": "Claude, Claude Code",
+"outcome": "17 Jun, 2026 |  Partial result (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "306",
+"ai": "Yuren Tang",
+"date": "Unspecified",
+"outcome": "19 Jun, 2026 |  Candidate full solution (Lean)",
+"colour": "⚪",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "326",
+"ai": "Aron Bhalla",
+"date": "Aristotle, Codex, GPT-5.5",
+"outcome": "20 May-14 Jun, 2026 |  Full solution (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "327",
+"ai": "Yu Leon Liu",
+"date": "GPT-5.5, Rethlas",
+"outcome": "13 May, 2026 |  Candidate partial result",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "330",
+"ai": "David Turturean",
+"date": "GPT-5.5 Pro",
+"outcome": "24 Apr, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "342",
+"ai": "Przemek Chojecki",
+"date": "GPT-5.2 Pro, GPT-5.4 Pro",
+"outcome": "20 Jan-23 Mar, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "345",
+"ai": "Wouter van Doorn",
+"date": "Aristotle, GPT",
+"outcome": "16 May, 2026 |  Partial result (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "346",
+"ai": "Kenta Kitamura",
+"date": "Codex, GPT",
+"outcome": "21 Jun, 2026 |  Full solution (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "347",
+"ai": "Enrique Barschkis, Wouter van Doorn, jbbaehr22, Bartosz Naskrecki, Terence Tao",
+"date": "Aristotle, Claude Opus, Codex, GPT",
+"outcome": "25 Oct, 2025-4 Feb, 2026 |  Full solution (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "351",
+"ai": "Kevin Barreto, Liam Price",
+"date": "GPT-5.5 Pro",
+"outcome": "3 May, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "352",
+"ai": "Aleksandar Bulj, Vjekoslav Kovač",
+"date": "GPT-5.4 Pro, GPT-5.5 Pro",
+"outcome": "29 May, 2026 |  Partial result of variant problem",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "358",
+"ai": "Nat Sothanaphan",
+"date": "GPT-5.2 Thinking",
+"outcome": "13-20 Feb, 2026 |  Argument with major gaps made",
+"colour": "🔴",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "367",
+"ai": "Boris Alexeev, Wouter van Doorn, Terence Tao",
+"date": "Aristotle, Gemini Deep Think",
+"outcome": "20-22 Nov, 2025 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "369",
+"ai": "Sky Yang",
+"date": "GPT",
+"outcome": "26 Mar, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "374",
+"ai": "Terence Tao",
+"date": "GPT-5.4 Pro",
+"outcome": "31 Mar, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "380",
+"ai": "Terence Tao",
+"date": "GPT-5.4 Pro",
+"outcome": "31 Mar, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "388",
+"ai": "Malek Zribi",
+"date": "Claude, Gemini, GPT-5.4",
+"outcome": "12-15 Mar, 2026 |  Incorrect proof found",
+"colour": "🔴",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "390",
+"ai": "Samuel Mausberg",
+"date": "GPT-5.5 Pro",
+"outcome": "2 May, 2026 |  Candidate partial result",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "393",
+"ai": "David Turturean",
+"date": "GPT-5.5 Pro",
+"outcome": "3 May, 2026 |  Conditional partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "396",
+"ai": "Malek Zribi",
+"date": "Claude, Codex, GPT",
+"outcome": "15 Mar, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "396",
+"ai": "Justin Dehorty, Nat Sothanaphan",
+"date": "GPT-5.4 Pro, GPT-5.4 Thinking",
+"outcome": "5-7 Apr, 2026 |  Related result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "400",
+"ai": "Eric Li",
+"date": "GPT",
+"outcome": "22 Jun, 2026 |  Candidate partial result",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "401",
+"ai": "Boris Alexeev, Kevin Barreto, Liam Price, Nat Sothanaphan",
+"date": "Aristotle, GPT-5.2 Pro",
+"outcome": "10-11 Jan, 2026 |  Full solution (Lean); solution to variant problem",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "411",
+"ai": "hoodieuser",
+"date": "Claude",
+"outcome": "3 Apr, 2026 |  Incorrect proof found",
+"colour": "🔴",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "415",
+"ai": "Przemek Chojecki",
+"date": "GPT-5.4 Pro",
+"outcome": "19 Apr, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "423",
+"ai": "Quanyu Tang, Nat Sothanaphan",
+"date": "GPT-5.2 Thinking, GPT-5.4 Thinking",
+"outcome": "11-12 Mar, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "432",
+"ai": "Sungchul Lee",
+"date": "GPT-5.5 Pro",
+"outcome": "23 Jun, 2026 |  Candidate partial result",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "451",
+"ai": "Wouter van Doorn, Quanyu Tang",
+"date": "Aristotle, GPT-5.5 Pro",
+"outcome": "26 Apr-19 Jun, 2026 |  Partial result (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "456",
+"ai": "David Turturean",
+"date": "GPT-5.5 Pro",
+"outcome": "4 May, 2026 |  Candidate partial result (solutions to first part and second part; conditional solution to third part)",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "460",
+"ai": "Przemek Chojecki",
+"date": "GPT-5.2",
+"outcome": "13 Jan, 2026 |  Reduction to a simpler problem",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "488",
+"ai": "Przemek Chojecki",
+"date": "Aristotle, GPT-5.4",
+"outcome": "20 Mar, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "501",
+"ai": "Sungchul Lee",
+"date": "GPT-5.5 Pro",
+"outcome": "29 May-1 Jun, 2026 |  Candidate conditional partial result (conditional solution to first part)",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "503",
+"ai": "Przemek Chojecki",
+"date": "Aristotle, GPT-5.4 Pro",
+"outcome": "22 Apr, 2026 |  Argument with major gaps made",
+"colour": "🔴",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "503",
+"ai": "Przemek Chojecki, Junnosuke Koizumi, RealBelgian",
+"date": "GPT-5.5 Pro",
+"outcome": "27-28 May, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "514",
+"ai": "Przemek Chojecki",
+"date": "GPT-5.4 Pro",
+"outcome": "20 Apr, 2026 |  Partial result (solutions to first part and second part)",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "514",
+"ai": "Yuta Oriike",
+"date": "GPT-5.5 Pro",
+"outcome": "28 Apr, 2026 |  Partial result (Lean) (solution to third part)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "521",
+"ai": "Vjekoslav Kovač",
+"date": "GPT-5.5 Pro",
+"outcome": "25 Apr, 2026 |  Solution to variant problem",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "521",
+"ai": "Vjekoslav Kovač",
+"date": "GPT-5.5 Pro",
+"outcome": "30 Apr, 2026 |  Candidate full solution",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "524",
+"ai": "Brayden Letwin, Mehtaab Sawhney",
+"date": "GPT-5.4 Pro",
+"outcome": "21 Apr, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "535",
+"ai": "Kireet Cheri, Sourish Kumrawat, Hrishi Sunder",
+"date": "GPT-5.5 Thinking",
+"outcome": "27 Apr, 2026 |  Partial result (implicit in literature)",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "593",
+"ai": "Eric Li",
+"date": "GPT",
+"outcome": "23 Jun, 2026 |  Candidate full solution",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "598",
+"ai": "Przemek Chojecki",
+"date": "Aristotle, GPT-5.4 Pro",
+"outcome": "22 Apr, 2026 |  Candidate partial result",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "603",
+"ai": "Przemek Chojecki",
+"date": "GPT-5.4 Pro",
+"outcome": "21 Apr, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "610",
+"ai": "Przemek Chojecki",
+"date": "Aristotle, GPT-5.4 Pro",
+"outcome": "21 Apr, 2026 |  Full solution (Lean) (implicit in literature)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "623",
+"ai": "Sungchul Lee",
+"date": "GPT-5.5 Pro",
+"outcome": "4 Jun, 2026 |  Candidate full solution",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "659",
+"ai": "Benjamin Grayzel",
+"date": "Gemini 3",
+"outcome": "13 Jan, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "675",
+"ai": "Boon Suan Ho",
+"date": "GPT-5.4 Pro",
+"outcome": "18 Apr, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "684",
+"ai": "Quanyu Tang",
+"date": "GPT-5.2 Thinking",
+"outcome": "19 Jan, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "684",
+"ai": "Nat Sothanaphan",
+"date": "GPT-5.4 Thinking",
+"outcome": "2 Apr, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "686",
+"ai": "Adenwalla, Stijn Cambie, Wouter van Doorn, Vjekoslav Kovač, Miklos, Nat Sothanaphan, Quanyu Tang, Terence Tao, vilc, Malek Zribi",
+"date": "AlphaProof, Claude, Gemini Deep Think, GPT-5.2 Thinking, GPT-5.4 Thinking, Seed 2.0 Pro",
+"outcome": "9 Aug, 2025-15 Mar, 2026 |  Various partial results",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "689",
+"ai": "Boris Alexeev, Przemek Chojecki, Dogmachine, jleng01, Mehtaab Sawhney, Terence Tao, Malek Zribi",
+"date": "Codex, GPT-5.2, GPT-5.5 Pro",
+"outcome": "29 Oct, 2025-2 Jun, 2026 |  Candidate full solution",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "690",
+"ai": "Davide Crapis, Shouqiao Wang",
+"date": "Multiscalar Fields System",
+"outcome": "8 May, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "696",
+"ai": "Jake Mallen, David Turturean",
+"date": "Aristotle, Claude Code, Claude Opus 4.7, GPT-5.5 Pro",
+"outcome": "26 Apr-5 Jun, 2026 |  Full solution (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "731",
+"ai": "Eric Li",
+"date": "GPT",
+"outcome": "27 Jun, 2026 |  Candidate full solution",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "749",
+"ai": "Aron Bhalla",
+"date": "GPT-5.4 Thinking",
+"outcome": "4-6 Apr, 2026 |  Partial result;  Solution to variant problem",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "750",
+"ai": "Przemek Chojecki",
+"date": "GPT-5.5 Pro",
+"outcome": "3 May, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "768",
+"ai": "Eric Li",
+"date": "GPT",
+"outcome": "22 Jun, 2026 |  Candidate full solution",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "776",
+"ai": "Yixin He, Quanyu Tang",
+"date": "GPT-5.2 Thinking",
+"outcome": "11 Feb, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "819",
+"ai": "Yu Leon Liu",
+"date": "GPT-5.5, Rethlas",
+"outcome": "15 May, 2026 |  Candidate partial result",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "848",
+"ai": "Malek Zribi",
+"date": "Claude Opus 4.6, GPT-5.4",
+"outcome": "12-15 Mar, 2026 |  Incorrect proof found",
+"colour": "🔴",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "848",
+"ai": "Mehtaab Sawhney, Mark Sellke",
+"date": "GPT-5",
+"outcome": "12 Oct-20 Nov, 2025 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "852",
+"ai": "Aron Bhalla",
+"date": "GPT-5.4",
+"outcome": "15 Apr, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "852",
+"ai": "Przemek Chojecki, David Turturean",
+"date": "GPT-5.5 Pro",
+"outcome": "24 Apr, 2026 |  Candidate partial result",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "856",
+"ai": "Przemek Chojecki",
+"date": "GPT-5.4 Pro",
+"outcome": "15 Apr, 2026 |  Candidate full solution",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "858",
+"ai": "Przemek Chojecki",
+"date": "GPT-5.4 Pro",
+"outcome": "15 Apr, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "863",
+"ai": "Boon Suan Ho",
+"date": "GPT-5.4 Pro",
+"outcome": "22 Apr, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "865",
+"ai": "Ricky Cipollini",
+"date": "GPT-5.5 Pro",
+"outcome": "21-22 Jun, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "866",
+"ai": "Wouter van Doorn",
+"date": "Aristotle, GPT-5.3 Instant",
+"outcome": "4 May, 2026 |  Partial result (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "870",
+"ai": "David Turturean",
+"date": "GPT-5.4 Pro, GPT-5.5 Pro",
+"outcome": "24 Apr-May 2, 2026 |  Candidate full solution",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "872",
+"ai": "Om_Buddhdev_sensho",
+"date": "GPT-5.4 Pro",
+"outcome": "16 Apr, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "872",
+"ai": "Jonas Silva",
+"date": "GPT-5.5 Pro",
+"outcome": "29 Apr, 2026 |  Candidate partial result",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "873",
+"ai": "Ritvik Nayak",
+"date": "GPT-5.4 Thinking",
+"outcome": "29 Apr, 2026 |  Candidate partial result",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "873",
+"ai": "Ingo Althöfer",
+"date": "GPT-5.5 Thinking",
+"outcome": "30 Apr, 2026 |  Candidate partial result",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "875",
+"ai": "Lech Mazur",
+"date": "Codex, GPT-5.5 Pro",
+"outcome": "7 May, 2026 |  Partial result (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "888",
+"ai": "Przemek Chojecki",
+"date": "Aristotle, GPT-5.5 Pro",
+"outcome": "25 Apr, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "896",
+"ai": "Przemek Chojecki",
+"date": "GPT-5.5 Pro",
+"outcome": "26 Apr, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "906",
+"ai": "Adriano Almeida",
+"date": "Unspecified",
+"outcome": "25 Apr, 2026 |  Candidate full solution",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "906",
+"ai": "Przemek Chojecki",
+"date": "GPT-5.5 Pro",
+"outcome": "25 Apr, 2026 |  Candidate full solution",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "931",
+"ai": "Adenwalla, Malek Zribi",
+"date": "Claude, GPT-5.4",
+"outcome": "12 Mar-8 Jun, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "942",
+"ai": "Scott Hughes",
+"date": "Aristotle, Claude Opus 4.8, Codex, GPT-5.5",
+"outcome": "13-14 Jun, 2026 |  Partial result (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "943",
+"ai": "Przemek Chojecki",
+"date": "GPT-5.4 Pro",
+"outcome": "3 Feb-18 Mar, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "953",
+"ai": "Przemek Chojecki",
+"date": "GPT-5.5 Pro",
+"outcome": "27 Apr, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "956",
+"ai": "Przemek Chojecki",
+"date": "Aristotle, GPT-5.5 Pro",
+"outcome": "27 Apr, 2026 |  Candidate full solution",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "986",
+"ai": "Domagoj Bradač",
+"date": "Claude, OpenAI internal model",
+"outcome": "27 May-16 Jun, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "995",
+"ai": "Boon Suan Ho",
+"date": "GPT-5.4 Pro",
+"outcome": "21 Apr, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "996",
+"ai": "Boon Suan Ho",
+"date": "GPT-5.4 Pro",
+"outcome": "21 Apr, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "951",
+"ai": "Nat Sothanaphan",
+"date": "GPT-5.2 Thinking",
+"outcome": "28 Jan, 2026 |  New solution to variant problem",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "976",
+"ai": "Aron Bhalla",
+"date": "GPT-5.4",
+"outcome": "16 Apr, 2026 |  Conditional partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1026",
+"ai": "Boris Alexeev, Stijn Cambie, Terence Tao, Lawrence Wu",
+"date": "AlphaEvolve, Aristotle, Gemini, GPT",
+"outcome": "8 Dec, 2025  |  Full solution (Lean)",
+"colour": "🟢",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "1038",
+"ai": "catsflowers5544, jspier, Junnosuke Koizumi, Kenneth Mendoza, Nat Sothanaphan, Terence Tao, Hua Xu",
+"date": "AlphaEvolve, Claude Fable 5, Codex, GPT-5.2 Thinking, GPT-5.4 Thinking, GPT-5.5",
+"outcome": "16 Dec, 2025-10 Jun, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1039",
+"ai": "Houi",
+"date": "Aristotle, Claude Opus 4.6",
+"outcome": "6-8 Mar, 2026 |  Partial result (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "1041",
+"ai": "shtuka",
+"date": "Claude Opus 4.6, Gemini 3.1 Pro, GPT-5.4",
+"outcome": "17-24 Mar, 2026 |  Argument with major gaps made",
+"colour": "🔴",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1061",
+"ai": "Eric Li",
+"date": "GPT",
+"outcome": "24 Jun, 2026 |  Candidate full solution",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1062",
+"ai": "Damek Davis",
+"date": "GPT-5.4 Pro",
+"outcome": "19 Apr, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1070",
+"ai": "Ákos Dúcz, Dániel Varga",
+"date": "Codex, GPT-5.5",
+"outcome": "29 Jun, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1092",
+"ai": "Przemek Chojecki",
+"date": "GPT-5.5 Pro",
+"outcome": "28 Apr, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1095",
+"ai": "shtuka",
+"date": "Claude Opus 4.6, Gemini 3.1 Pro, GPT-5.4 Pro",
+"outcome": "13 Mar, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1132",
+"ai": "Terence Tao",
+"date": "AlphaEvolve, Claude, Gemini Pro, GPT-5.4 Pro",
+"outcome": "2 Feb-24 Mar, 2026 |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1133",
+"ai": "Przemek Chojecki",
+"date": "GPT-5.5 Pro",
+"outcome": "29 Apr, 2026 |  Candidate full solution",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1138",
+"ai": "Kireet Cheri, Sourish Kumrawat, Hrishi Sunder",
+"date": "GPT-5.5 Pro, GPT-5.5 Thinking",
+"outcome": "25 Apr, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1139",
+"ai": "Przemek Chojecki, gavinsherry, Liam Price, Terence Tao",
+"date": "GPT-5.2 Pro, GPT-5.5 Pro",
+"outcome": "26 Jan-19 Jun, 2026 |  Candidate full solution",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1141",
+"ai": "Quanyu Tang",
+"date": "GPT-5.2 Pro, GPT-5.2 Thinking",
+"outcome": "25 Jan, 2026 |  Partial result of variant problem",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1143",
+"ai": "Przemek Chojecki",
+"date": "GPT-5.5 Pro",
+"outcome": "29 Apr, 2026 |  Partial result (implicit in literature)",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1148",
+"ai": "Ingo Althöfer, Przemek Chojecki, Wouter van Doorn",
+"date": "Gemini 3 Pro, Gemini 3.1 Pro, GPT-5.2 Pro, GPT-5.2 Thinking, GPT-5.4 Pro",
+"outcome": "24 Jan-16 Mar, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1148",
+"ai": "Ingo Althöfer, Przemek Chojecki",
+"date": "GPT-5.5 Pro",
+"outcome": "19 May, 2026 |  Solution to stronger problem",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1151",
+"ai": "Przemek Chojecki",
+"date": "GPT-5.5 Pro",
+"outcome": "30 Apr, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1153",
+"ai": "Aron Bhalla, Nat Sothanaphan, Terence Tao",
+"date": "AlphaEvolve, Claude, Gemini Pro, GPT-5.2 Thinking, GPT-5.4 Pro",
+"outcome": "2 Feb-24 Mar, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1177",
+"ai": "Eric Li",
+"date": "GPT",
+"outcome": "23 Jun, 2026 |  Candidate full solution",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1183",
+"ai": "Przemek Chojecki, Quanyu Tang",
+"date": "GPT-5.4 Pro",
+"outcome": "18 Mar, 2026  |  Partial result",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1190",
+"ai": "Boon Suan Ho",
+"date": "GPT-5.4 Pro",
+"outcome": "23 Apr, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1190",
+"ai": "Przemek Chojecki",
+"date": "GPT-5.5 Pro",
+"outcome": "30 Apr, 2026 |  Candidate full solution",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1194",
+"ai": "Lech Mazur",
+"date": "Codex, GPT-5.5 Pro",
+"outcome": "2 May, 2026 |  Partial result (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "1(d)",
+"problem": "1195",
+"ai": "Boon Suan Ho",
+"date": "GPT-5.4 Pro",
+"outcome": "19 Apr, 2026 |  Full solution",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1196",
+"ai": "Nat Sothanaphan",
+"date": "GPT-5.4 Thinking",
+"outcome": "16 Apr, 2026 |  Full solution (stronger than literature)",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1201",
+"ai": "Przemek Chojecki",
+"date": "GPT-5.5 Pro",
+"outcome": "30 Apr, 2026 |  Candidate full solution",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1208",
+"ai": "Sungchul Lee",
+"date": "GPT-5.5 Pro",
+"outcome": "14 Jun, 2026 |  Candidate partial result",
+"colour": "⚪",
+"lean": false
+},
+{
+"section": "1(d)",
+"problem": "1209",
+"ai": "Enrique Barschkis",
+"date": "GPT-5.4 Pro",
+"outcome": "15 Apr, 2026  |  Partial result (Lean)",
+"colour": "🟡",
+"lean": true
+},
+{
+"section": "2(a)",
+"problem": "35",
+"ai": "GPT-5",
+"date": "13 Oct, 2025",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "66",
+"ai": "GPT-5",
+"date": "13 Oct, 2025",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "94",
+"ai": "GPT-5",
+"date": "2 Nov, 2025",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "120",
+"ai": "GPT-5.4 Thinking",
+"date": "14 Mar, 2026",
+"outcome": "Solution to variant problem found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "167",
+"ai": "GPT-5",
+"date": "12 Oct, 2025",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "188",
+"ai": "GPT-5",
+"date": "13 Oct, 2025",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "214",
+"ai": "ChatGPT Deep research, Gemini Deep Research",
+"date": "20 Feb, 2026",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "223",
+"ai": "GPT-5",
+"date": "13 Oct, 2025",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "306",
+"ai": "GPT-5.2 Thinking",
+"date": "25 Feb, 2026",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "325",
+"ai": "ChatGPT Deep research",
+"date": "9 Mar, 2026",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "330",
+"ai": "ChatGPT Deep research, Claude, Gemini Deep Research",
+"date": "19 Dec, 2025",
+"outcome": "Partial results found with inaccuracies; literature proof not found",
+"colour": "🔴",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "333",
+"ai": "GPT-5.2 Pro",
+"date": "25 Dec, 2025",
+"outcome": "Incorrect proof claimed; literature proof not found",
+"colour": "🔴",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "333",
+"ai": "Aletheia",
+"date": "1 Feb, 2026",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "339",
+"ai": "GPT-5",
+"date": "11 Oct, 2025",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "347",
+"ai": "ChatGPT Deep research",
+"date": "25 Oct, 2025",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "354",
+"ai": "ChatGPT Deep research",
+"date": "19 Oct, 2025",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "370",
+"ai": "ChatGPT Deep research, Gemini, Gemini Deep Research",
+"date": "17 Oct, 2025",
+"outcome": "Problem found to be misstated; solutions to variant problems found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "387",
+"ai": "ChatGPT Deep research",
+"date": "1 Nov, 2025",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "397",
+"ai": "ChatGPT Deep research",
+"date": "10 Jan, 2026",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "481",
+"ai": "ChatGPT Deep research, Gemini Deep Research",
+"date": "1 Dec, 2025",
+"outcome": "Unwittingly reproduced existing proof",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "481",
+"ai": "GPT",
+"date": "3 Dec, 2025",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "494",
+"ai": "GPT-5",
+"date": "13 Oct, 2025",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "515",
+"ai": "GPT-5",
+"date": "15 Oct, 2025",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "516",
+"ai": "ChatGPT Deep research, Claude, Gemini Deep Research",
+"date": "28 Dec, 2025",
+"outcome": "Problem found to be misstated; full solution to actual problem found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "524",
+"ai": "GPT-5.2 Pro",
+"date": "27 Dec, 2025",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "533",
+"ai": "GPT",
+"date": "26 Jan, 2026",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "559",
+"ai": "ChatGPT Deep research, Gemini Deep Research",
+"date": "26 Oct, 2025",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "574",
+"ai": "GPT-5.4 Pro",
+"date": "28 Mar, 2026",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "575",
+"ai": "GPT",
+"date": "14 Jan, 2026",
+"outcome": "Paper identifying a misstatement to the problem found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "591",
+"ai": "ChatGPT Deep research",
+"date": "17 Jan, 2026",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "591",
+"ai": "Aletheia",
+"date": "1 Feb, 2026",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "602",
+"ai": "GPT-5.4 Thinking",
+"date": "20 Apr, 2026",
+"outcome": "Related results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "621",
+"ai": "GPT-5",
+"date": "13 Oct, 2025",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "645",
+"ai": "GPT-5",
+"date": "20 Oct, 2025",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "650",
+"ai": "ChatGPT Deep research",
+"date": "6 Mar, 2026",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "652",
+"ai": "GPT-5.2 Pro",
+"date": "17 Jan, 2026",
+"outcome": "Full solution by applying literature results",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "652",
+"ai": "Aletheia",
+"date": "2 Feb, 2026",
+"outcome": "Full solution by applying literature results",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "659",
+"ai": "Gemini Deep Research",
+"date": "13 Jan, 2026",
+"outcome": "Partial results, upgradeable to full solution, found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "672",
+"ai": "GPT",
+"date": "7 Jan, 2026",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "705",
+"ai": "GPT",
+"date": "26 Jan, 2026",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "705",
+"ai": "Aletheia",
+"date": "1 Feb, 2026",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "729",
+"ai": "ChatGPT Deep research",
+"date": "Jan 10, 2026",
+"outcome": "Related results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "737",
+"ai": "GPT-5",
+"date": "30 Sep, 2025",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "749",
+"ai": "GPT-5.4 Thinking",
+"date": "3 Apr, 2026",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "750",
+"ai": "GPT-5",
+"date": "13 Oct, 2025",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "788",
+"ai": "GPT-5",
+"date": "14 Oct, 2025",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "793",
+"ai": "ChatGPT Deep research",
+"date": "30 Nov, 2025",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "811",
+"ai": "GPT-5",
+"date": "13 Oct, 2025",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "822",
+"ai": "GPT-5",
+"date": "13 Oct, 2025",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "827",
+"ai": "GPT-5",
+"date": "14 Oct, 2025",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "829",
+"ai": "GPT-5",
+"date": "13 Oct, 2025",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "847",
+"ai": "GPT-5.2 Pro",
+"date": "19 Jan, 2026",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "851",
+"ai": "ChatGPT Deep research, Claude, Gemini Deep Research",
+"date": "5 Feb, 2026",
+"outcome": "Confused with another problem;  Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "871",
+"ai": "ChatGPT Deep research",
+"date": "6 Dec, 2025",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "903",
+"ai": "GPT-5",
+"date": "14 Oct, 2025",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "915",
+"ai": "ChatGPT Deep research",
+"date": "26 Oct, 2025",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "942",
+"ai": "ChatGPT Deep research",
+"date": "23 Nov, 2025",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "965",
+"ai": "GPT",
+"date": "2 Jan, 2026",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "971",
+"ai": "Claude",
+"date": "31 Jan, 2026",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "985",
+"ai": "GPT-5.4 Thinking",
+"date": "6 Mar, 2026",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "990",
+"ai": "ChatGPT Deep research, Gemini Deep Research",
+"date": "20 Oct, 2025",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "992",
+"ai": "Aletheia",
+"date": "1 Feb, 2026",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1008",
+"ai": "GPT-5",
+"date": "29 Sep, 2025",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1011",
+"ai": "GPT-5",
+"date": "13 Oct, 2025",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1016",
+"ai": "ChatGPT Deep research, Gemini Deep Research",
+"date": "18 Oct, 2025",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1019",
+"ai": "ChatGPT Deep research, Gemini Deep Research",
+"date": "18 Oct, 2025",
+"outcome": "Solution claim found, but precise citation not found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1021",
+"ai": "GPT",
+"date": "21 Jan, 2026",
+"outcome": "Full solution (which was previously noted) found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1043",
+"ai": "GPT-5",
+"date": "12 Oct, 2025",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1079",
+"ai": "GPT-5",
+"date": "13 Oct, 2025",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1084",
+"ai": "GPT",
+"date": "21 Jan, 2026",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1099",
+"ai": "ChatGPT Deep research, Gemini, Gemini Deep Research",
+"date": "19 Oct, 2025",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1105",
+"ai": "ChatGPT Deep research",
+"date": "19 Jan, 2026",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1105",
+"ai": "Aletheia",
+"date": "1 Feb, 2026",
+"outcome": "Full solution found;  Gave some wrong references",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1123",
+"ai": "Gemini Deep Research",
+"date": "31 Jan, 2026",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1124",
+"ai": "GPT",
+"date": "31 Dec, 2025",
+"outcome": "Solution to variant problem found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1129",
+"ai": "GPT-5.2 Pro",
+"date": "17 Jan, 2026",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1130",
+"ai": "GPT-5.2 Pro",
+"date": "17 Jan, 2026",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1147",
+"ai": "GPT-5.2 Thinking",
+"date": "26 Jan, 2026",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1150",
+"ai": "Gemini Deep Research",
+"date": "4 Feb, 2026",
+"outcome": "Claimed solution found (likely incorrect)",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1154",
+"ai": "GPT-5.2 Thinking",
+"date": "24 Jan, 2026",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1161",
+"ai": "GPT-5.2 Thinking",
+"date": "24 Jan, 2026",
+"outcome": "Full solution found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1198",
+"ai": "GPT-5.4",
+"date": "16 Apr, 2026",
+"outcome": "Partial results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1216",
+"ai": "ChatGPT Deep research",
+"date": "10 Mar, 2026",
+"outcome": "Solution stronger than problem found",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(a)",
+"problem": "1216",
+"ai": "GPT-5.4 Thinking",
+"date": "12 Apr, 2026",
+"outcome": "Related results found",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "16",
+"ai": "🟢 Chen (2023)",
+"date": "Antigravity, Gemini 3.1 Pro",
+"outcome": "25 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "24",
+"ai": "🟢 Grzesik (2012)",
+"date": "Aristotle",
+"outcome": "23 Apr-26 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "26",
+"ai": "🟢 Ruzsa",
+"date": "Aristotle",
+"outcome": "28 Dec, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "31",
+"ai": "🟢 Lorentz (1954), Wouter van Doorn (2025)",
+"date": "Aristotle, GPT",
+"outcome": "24 Nov, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "34",
+"ai": "🟢 Konieczny (2015)",
+"date": "Aristotle",
+"outcome": "5 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "38",
+"ai": "🟢 GPT-5.5 Pro (2026)",
+"date": "Aristotle",
+"outcome": "1 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "42",
+"ai": "🟢 GPT-5.5 Pro (2026)",
+"date": "Codex, GPT-5.5 Pro",
+"outcome": "10 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "43",
+"ai": "🟡 Barreto (2025)",
+"date": "Aristotle, Claude",
+"outcome": "21 Dec, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "56",
+"ai": "🟢 Ahlswede and Khachatrian (1995)",
+"date": "Aristotle, GPT",
+"outcome": "25 Nov, 2025-27 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "71",
+"ai": "🟢 Bollobás (1977)",
+"date": "Aristotle, Claude Opus 4.7, GPT-5.5",
+"outcome": "24 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "90",
+"ai": "🟢 OpenAI internal model (2026)",
+"date": "Aleph Prover",
+"outcome": "28 May-12 Jun, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "93",
+"ai": "🟢 Altman (1963)",
+"date": "Aristotle, Claude Opus 4.5, Claude Opus 4.6, Gemini 3 Flash, Gemini 3 Pro, Numina Lean Agent",
+"outcome": "17 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "94",
+"ai": "🟢 Lefmann and Thiele (1995)",
+"date": "Codex, GPT-5.2 Thinking; Seed Prover",
+"outcome": "15 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "105",
+"ai": "🟢 Xichuan (2025)",
+"date": "Aristotle, GPT Pro",
+"outcome": "17 Nov, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "106",
+"ai": "🟡 Baek, Koizumi, and Ueoro (2024)",
+"date": "Aristotle",
+"outcome": "10 Dec, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "115",
+"ai": "🟢 Eremenko and Lempert (1994)",
+"date": "Aristotle, Claude Opus 4.6, Claude Sonnet 4.6, Gemini 3 Flash, Gemini 3.1 Pro, ulam.ai scaffold with Gemini 3 Flash and Gemini 3.1 Pro",
+"outcome": "3 Mar, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "134",
+"ai": "🟢 Alon",
+"date": "Aristotle",
+"outcome": "7 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "150",
+"ai": "🟢 Bradač (2024)",
+"date": "Aristotle",
+"outcome": "31 Mar, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "154",
+"ai": "🟢 Lindström (1998)",
+"date": "Aristotle, GPT",
+"outcome": "6 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "164",
+"ai": "🟢 Alexeev, Barreto, Li, Lichtman, Price, Shah, Tang, and Tao (2026)",
+"date": "Codex",
+"outcome": "4 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "165",
+"ai": "🟡 Hefty, Horn, King and Pfender (2025)",
+"date": "Trellis",
+"outcome": "10 Jun, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "178",
+"ai": "🟢 Beck (1981)",
+"date": "Aristotle",
+"outcome": "21 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "189",
+"ai": "🟢 Kovač (2023)",
+"date": "Aristotle, Gemini 3 Pro",
+"outcome": "17 Dec, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "192",
+"ai": "🟢 Keränen (1992)",
+"date": "Aristotle",
+"outcome": "9-10 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "194",
+"ai": "🟢 Ardal, Brown, and Jungić (2011)",
+"date": "Aristotle",
+"outcome": "15 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "198",
+"ai": "🟢 Baumgartner (1975)",
+"date": "Aristotle, GPT",
+"outcome": "24 Nov, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "199",
+"ai": "🟢 Baumgartner (1975)",
+"date": "Aristotle",
+"outcome": "24 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "202",
+"ai": "🟢 Boon Suan Ho and GPT-5.4 Pro (2026)",
+"date": "Unspecified",
+"outcome": "14 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "204",
+"ai": "🟢 Adenwalla (2025)",
+"date": "Aristotle",
+"outcome": "15 Mar, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "206",
+"ai": "🟢 Kovač (2024)",
+"date": "Aristotle",
+"outcome": "28 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "209",
+"ai": "🟢 Escudero (2016)",
+"date": "AxiomProver",
+"outcome": "19 Jun, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "214",
+"ai": "🟢 Juhász (1979)",
+"date": "Aristotle",
+"outcome": "2 Mar, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "221",
+"ai": "🟢 Ruzsa (1972) + van Doorn (2025)",
+"date": "Aristotle",
+"outcome": "31 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "226",
+"ai": "🟢 Sato and Rankin (1974)",
+"date": "Aristotle",
+"outcome": "29 Dec, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "229",
+"ai": "🟢 Barth and Schneider (1972)",
+"date": "Aristotle",
+"outcome": "28 Dec, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "231",
+"ai": "🟢 Keränen (1992)",
+"date": "Aristotle",
+"outcome": "9 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "237",
+"ai": "🟢 Chen and Ding (2022)",
+"date": "Aristotle",
+"outcome": "4 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "246",
+"ai": "🟢 Birch (1959)",
+"date": "Aristotle",
+"outcome": "28 Dec, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "258",
+"ai": "🟢 GPT-5.4 Pro (2026)",
+"date": "Aristotle",
+"outcome": "14 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "259",
+"ai": "🟢 Chen and Ruzsa (1999)",
+"date": "Aristotle",
+"outcome": "21 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "268",
+"ai": "🟢 Kovač (2024)",
+"date": "Aristotle",
+"outcome": "13 Apr-26 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "275",
+"ai": "🟢 Balister, Bollobas, Morris, Sahasrabudhe, and Tiba (2020)",
+"date": "Aristotle",
+"outcome": "20 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "280",
+"ai": "🟢 Cambie (2025)",
+"date": "Aristotle",
+"outcome": "18 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "281",
+"ai": "🟢 GPT-5.2 Pro (2026)",
+"date": "Aristotle, Gemini 3 Flash",
+"outcome": "19 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "283",
+"ai": "🟡 van Doorn (2025)",
+"date": "Aristotle",
+"outcome": "28 Mar, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "283",
+"ai": "🟢 Barreto, GPT-5.5 Pro, and Price (2026)",
+"date": "Claude Opus 4.7, GPT-5.5 Pro",
+"outcome": "6 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "290",
+"ai": "🟢 van Doorn (2024)",
+"date": "Aristotle",
+"outcome": "14 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "296",
+"ai": "🟢 Hunter and Sawhney",
+"date": "Aristotle",
+"outcome": "22 Apr-26 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "303",
+"ai": "🟢 Brown and Rödl (1991)",
+"date": "Seed Prover",
+"outcome": "21 Dec, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "314",
+"ai": "🟢 Lim and Steinerberger (2024)",
+"date": "Aristotle",
+"outcome": "1 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "315",
+"ai": "🟢 Kamio (2025)",
+"date": "Aristotle",
+"outcome": "31 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "328",
+"ai": "🟢 Nešetřil and Rödl (1985)",
+"date": "AxiomProver",
+"outcome": "19 Jun, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "330",
+"ai": "🟢 GPT-5.5 Pro and Turturean (2026)",
+"date": "Codex, GPT-5.5 Pro",
+"outcome": "5 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "331",
+"ai": "🟢 Ruzsa",
+"date": "Aristotle",
+"outcome": "31 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "337",
+"ai": "🟢 Ruzsa and Turjányi (1985)",
+"date": "Aristotle",
+"outcome": "10 Dec, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "350",
+"ai": "🟢 Ryavec (1974)",
+"date": "Aristotle, GPT",
+"outcome": "25 Nov, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "351",
+"ai": "🟢 Barreto, GPT-5.5 Pro, and Price (2026)",
+"date": "Claude Opus 4.7, GPT-5.5 Pro",
+"outcome": "6 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "353",
+"ai": "🟢 Kovač and Predojević (2024) + Koizumi (2025)",
+"date": "Aristotle",
+"outcome": "19-20 Jun, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "355",
+"ai": "🟢 van Doorn and Kovač (2025) (almost the entirety)",
+"date": "Aristotle, Gemini 3",
+"outcome": "30 Jan-13 Mar, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "363",
+"ai": "🟢 Ulas (2005)",
+"date": "Aristotle",
+"outcome": "10 Mar, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "367",
+"ai": "🟡 van Doorn and Tao (2025)",
+"date": "Aristotle",
+"outcome": "22 Nov, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "368",
+"ai": "🟡 Pólya (1918)",
+"date": "Aristotle",
+"outcome": "17 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "369",
+"ai": "🟢 GPT and Yang (2026)",
+"date": "Aristotle",
+"outcome": "27 Mar, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "370",
+"ai": "🟢 Steinerberger (2025)",
+"date": "Aristotle, GPT",
+"outcome": "24 Nov, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "392",
+"ai": "🟢 Tao (2026)",
+"date": "Various",
+"outcome": "6 Jan-23 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "399",
+"ai": "🟢 Barfield (2025)",
+"date": "Codex",
+"outcome": "Feb 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "403",
+"ai": "🟢 Unspecified",
+"date": "AxiomProver",
+"outcome": "19 Jun, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "418",
+"ai": "🟢 Browkin and Schinzel (1995)",
+"date": "Aristotle, GPT",
+"outcome": "22 Nov, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "419",
+"ai": "🟢 Sawhney (2025)",
+"date": "Aristotle",
+"outcome": "31 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "425",
+"ai": "🟢 Erdős (1938)",
+"date": "Aristotle, GPT",
+"outcome": "5-17 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "426",
+"ai": "🟢 Bradač and Christoph (2024)",
+"date": "Aristotle",
+"outcome": "20 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "427",
+"ai": "🟢 Pilatte",
+"date": "Aristotle",
+"outcome": "26 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "429",
+"ai": "🟢 Weisenberg (2024)",
+"date": "Aristotle",
+"outcome": "29 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "433",
+"ai": "🟢 Dixmier (1990)",
+"date": "Aristotle, Claude Opus 4.8, Claude Sonnet 4.6, Gemini 3 Flash, Gemini 3.1 Pro, Project Numina",
+"outcome": "24 Feb-29 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "434",
+"ai": "🟢 Continued from [433] formalization",
+"date": "Aristotle, Claude Opus 4.8",
+"outcome": "24 Feb-29 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "435",
+"ai": "🟢 Cambie (2025)",
+"date": "Aristotle",
+"outcome": "4 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "441",
+"ai": "🟡 Chen and Dai (2007)",
+"date": "AxiomProver",
+"outcome": "19 Jun, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "443",
+"ai": "🟢 Hegyvári (2025)",
+"date": "Aristotle",
+"outcome": "4 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "447",
+"ai": "🟢 Kleitman (1971)",
+"date": "Aristotle",
+"outcome": "10 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "453",
+"ai": "🟢 Pomerance (1979)",
+"date": "Aristotle",
+"outcome": "31 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "459",
+"ai": "🟢 Cambie (2026)",
+"date": "Aristotle",
+"outcome": "11 Mar, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "464",
+"ai": "🟢 de Mathan (1980)",
+"date": "Aristotle",
+"outcome": "21 Jun, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "476",
+"ai": "🟢 Alon, Nathanson, and Ruzsa (1995)",
+"date": "Aristotle",
+"outcome": "31 Dec, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "480",
+"ai": "🟢 Chung and Graham (1984)",
+"date": "Aristotle",
+"outcome": "28 Nov, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "481",
+"ai": "🟢 Barreto (2025)",
+"date": "Aristotle, Claude",
+"outcome": "1 Dec, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "484",
+"ai": "🟢 Erdős, Sárközy, and Sós (1989)",
+"date": "Aristotle",
+"outcome": "15 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "487",
+"ai": "🟢 Kleitman (1971)",
+"date": "Aristotle",
+"outcome": "16 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "490",
+"ai": "🟢 Szemerédi (1976)",
+"date": "Aristotle, GPT-5.5 Pro",
+"outcome": "17 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "497",
+"ai": "🟢 Kleitman (1969)",
+"date": "Aristotle",
+"outcome": "4 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "498",
+"ai": "🟢 Kleitman (1965)",
+"date": "Aristotle, Claude Opus, Gemini Flash, Gemini Pro",
+"outcome": "Jan 27, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "499",
+"ai": "🟢 Marcus and Minc (1962)",
+"date": "Aristotle",
+"outcome": "29 Nov, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "502",
+"ai": "🟢 Petrov and Pohoata (2021)",
+"date": "Aristotle",
+"outcome": "2 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "505",
+"ai": "🟢 Kahn and Kalai (1993)",
+"date": "Aristotle",
+"outcome": "2 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "512",
+"ai": "🟢 McGehee, Pigno, and Smith (1981)",
+"date": "Aristotle",
+"outcome": "22 Jun, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "519",
+"ai": "🟢 Atkinson (1961)",
+"date": "Aristotle",
+"outcome": "19 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "537",
+"ai": "🟢 Ruzsa",
+"date": "Aristotle",
+"outcome": "6 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "540",
+"ai": "🟢 Szemerédi (1970)",
+"date": "Aristotle",
+"outcome": "15 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "541",
+"ai": "🟢 Grynkiewicz (2011)",
+"date": "Aristotle, GPT",
+"outcome": "30 Dec, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "582",
+"ai": "🟢 Folkman (1970)",
+"date": "Aristotle",
+"outcome": "5 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "603",
+"ai": "🟢 Chojecki and GPT-5.4 Pro (2026)",
+"date": "Codex, GPT-5.5",
+"outcome": "17 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "613",
+"ai": "🟢 Pikhurko (2001)",
+"date": "GPT Pro",
+"outcome": "4 Nov, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "618",
+"ai": "🟢 Alon",
+"date": "Aristotle",
+"outcome": "8 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "621",
+"ai": "🟢 Norin and Sun (2016)",
+"date": "Aristotle",
+"outcome": "19 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "639",
+"ai": "🟢 Keevash and Sudakov (2004)",
+"date": "Aristotle",
+"outcome": "3 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "645",
+"ai": "🟢 Brown and Landman (1999)",
+"date": "Aristotle, GPT",
+"outcome": "23 Nov, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "646",
+"ai": "🟢 Berend (1997)",
+"date": "Aristotle",
+"outcome": "27 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "648",
+"ai": "🟢 Cambie (2025)",
+"date": "Aristotle",
+"outcome": "4 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "649",
+"ai": "🟢 Tong; Sampaio",
+"date": "Aristotle, GPT",
+"outcome": "7 Feb-1 Jun, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "650",
+"ai": "🟢 He, Li and Tang (2026)",
+"date": "Aristotle",
+"outcome": "6-8 Mar, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "658",
+"ai": "🟢 Solymosi (2004)",
+"date": "Aristotle",
+"outcome": "20 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "659",
+"ai": "🟢 Gemini and Grayzel (2026)",
+"date": "Aristotle",
+"outcome": "14 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "666",
+"ai": "🟢 Chung (1992), Brouwer, Dejter, and Thomassen (1993)",
+"date": "Aristotle",
+"outcome": "6 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "678",
+"ai": "🟢 Cambie (2025)",
+"date": "Aristotle",
+"outcome": "7 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "692",
+"ai": "🟢 Cambie (2025)",
+"date": "Aristotle",
+"outcome": "2 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "694",
+"ai": "🟢 GPT-5.5 Pro (2026)",
+"date": "Aristotle, Claude Code, Claude Opus 4.7, GPT-5.5 Pro",
+"outcome": "3 May-5 Jun, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "698",
+"ai": "🟢 Bergman (2011)",
+"date": "Aristotle",
+"outcome": "16 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "707",
+"ai": "🟢 Hall (1947)",
+"date": "GPT",
+"outcome": "23 Nov, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "716",
+"ai": "🟢 Ruzsa and Szemerédi (1978)",
+"date": "Aristotle",
+"outcome": "20 Jun, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "728",
+"ai": "🟢 Pomerance (2026)",
+"date": "Aristotle",
+"outcome": "22 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "750",
+"ai": "🟢 Chojecki and GPT-5.5 Pro (2026)",
+"date": "Claude Code, Claude Opus 4.7, GPT-5.5 Pro",
+"outcome": "4 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "751",
+"ai": "🟢 Bondy and Vince (1998)",
+"date": "GPT-5.2-Codex, GPT-5.2 Thinking",
+"outcome": "27 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "753",
+"ai": "🟢 Alon (1992)",
+"date": "Aristotle",
+"outcome": "14 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "756",
+"ai": "🟢 Bhowmick (2024)",
+"date": "Aristotle",
+"outcome": "15 Mar, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "760",
+"ai": "🟢 Alon, Krivelevich, and Sudakov (1997)",
+"date": "Aristotle",
+"outcome": "23 Apr-2 Jun, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "762",
+"ai": "🟢 Steiner (2024)",
+"date": "Aristotle, Claude Opus 4.7, GPT",
+"outcome": "8 Feb-3 Jun, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "765",
+"ai": "🟢 Aigner and Ziegler (1998)",
+"date": "Aristotle",
+"outcome": "16 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "775",
+"ai": "🟢 Gao (2025)",
+"date": "Aristotle",
+"outcome": "19 Apr-3 Jun, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "785",
+"ai": "🟡 Narkiewicz (1959/60) + 🟢 Ruzsa (2015)",
+"date": "Aristotle",
+"outcome": "6 Mar, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "788",
+"ai": "🟡 GPT-5.2 Pro (2026)",
+"date": "Aristotle",
+"outcome": "20 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "794",
+"ai": "🟢 Harris (2025)",
+"date": "Aristotle",
+"outcome": "5 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "798",
+"ai": "🟢 Alon (1991)",
+"date": "Aristotle",
+"outcome": "8 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "818",
+"ai": "🟢 Solymosi (2009)",
+"date": "Aristotle",
+"outcome": "25 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "835",
+"ai": "🟡 Likely folklore",
+"date": "AlphaProof",
+"outcome": "26 Dec, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "844",
+"ai": "🟢 Chvátal (1974) + Weisenberg",
+"date": "Aristotle",
+"outcome": "26 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "845",
+"ai": "🟢 van Doorn and Everts (2025)",
+"date": "Aristotle",
+"outcome": "8 Jan, 2026 (one form of result), 21 Jan, 2026 (second form)",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "848",
+"ai": "🟢 Sawhney (2025)",
+"date": "Aristotle, Claude, GPT-5.2",
+"outcome": "28 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "862",
+"ai": "🟢 Saxton and Thomason (2015)",
+"date": "Aristotle",
+"outcome": "21 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "867",
+"ai": "🟢 Freud (1993)",
+"date": "Aristotle",
+"outcome": "7 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "897",
+"ai": "🟢 Erdős and Wirsing (1975)",
+"date": "Aristotle",
+"outcome": "27 Nov, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "898",
+"ai": "🟢 Barrow and Mordell (1937)",
+"date": "Aristotle, Gemini 3 Flash",
+"outcome": "28 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "904",
+"ai": "🟢 Bollobás and Nikiforov (2005)",
+"date": "Aristotle",
+"outcome": "18 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "905",
+"ai": "🟢 Khadžiivanov and Nikiforov (1979)",
+"date": "Aristotle, GPT-5.4",
+"outcome": "7 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "907",
+"ai": "🟢 de Bruijn (1951)",
+"date": "Aristotle",
+"outcome": "7 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "914",
+"ai": "🟢 Kierstead and Kostochka (2008)",
+"date": "Aristotle",
+"outcome": "15 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "923",
+"ai": "🟢 Rödl (1977)",
+"date": "Aristotle",
+"outcome": "20 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "927",
+"ai": "🟢 Spencer (1971)",
+"date": "Aristotle",
+"outcome": "5 Jun, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "947",
+"ai": "🟢 Mirsky and Newman + Davenport and Rado",
+"date": "Aristotle, GPT",
+"outcome": "2 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "958",
+"ai": "🟢 Clemen, Dumitrescu, and Liu (2025)",
+"date": "Seed Prover 1.5",
+"outcome": "19 Dec, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "964",
+"ai": "🟢 Eberhard (2025)",
+"date": "Antigravity, Aristotle, Gemini",
+"outcome": "14 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "967",
+"ai": "🟢 Yip (2025)",
+"date": "Aristotle",
+"outcome": "19 Dec, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "974",
+"ai": "🟢 Tijdeman (1966)",
+"date": "Aristotle",
+"outcome": "27 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "986",
+"ai": "🟡 Bradač (2026)",
+"date": "Trellis",
+"outcome": "10 Jun, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "990",
+"ai": "🟢 OpenAI internal model (2026)",
+"date": "GPT-5.4 Pro",
+"outcome": "10 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "997",
+"ai": "🟢 OpenAI internal model (2026)",
+"date": "Aristotle",
+"outcome": "1 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1000",
+"ai": "🟢 Haight",
+"date": "Aristotle, GPT",
+"outcome": "28 Dec, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1007",
+"ai": "🟢 House (2013)",
+"date": "Aristotle",
+"outcome": "19 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1008",
+"ai": "🟢 Conlon, Fox, and Sudakov (2014)",
+"date": "Aristotle",
+"outcome": "17 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1022",
+"ai": "🟢 KoishiChan (2025)",
+"date": "Aristotle",
+"outcome": "22 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1023",
+"ai": "🟢 Kleitman (1971)",
+"date": "Aristotle",
+"outcome": "10 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1028",
+"ai": "🟢 Erdős (1963); Erdős and Spencer (1971)",
+"date": "Aristotle",
+"outcome": "19 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1034",
+"ai": "🟢 Ma and Tang (2025)",
+"date": "Aristotle",
+"outcome": "4 Dec, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1036",
+"ai": "🟢 Shelah (1998)",
+"date": "Aristotle",
+"outcome": "20 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1037",
+"ai": "🟢 Cambie, Chan, and Hunter (2025)",
+"date": "Aristotle",
+"outcome": "19 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1039",
+"ai": "🟡 GPT-5.5 Pro (2026)",
+"date": "Codex, GPT-5.5",
+"outcome": "15 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1044",
+"ai": "🟢 Tang (2026)",
+"date": "Aristotle",
+"outcome": "28 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1048",
+"ai": "🟢 Pommerenke (1961)",
+"date": "Aristotle",
+"outcome": "27 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1067",
+"ai": "🟢 Bowler and Pitz (2024)",
+"date": "Aleph Prover, Aristotle",
+"outcome": "28 Jan, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1071",
+"ai": "🟢 Danzer; Alexeev (2026)",
+"date": "Aleph Prover, Aristotle, GPT",
+"outcome": "29 Jan, 2026 (second part); 12 Feb, 2026 (first part)",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1080",
+"ai": "🟢 De Caen and Székely (1992)",
+"date": "Aristotle",
+"outcome": "28 Dec, 2025",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1095",
+"ai": "🟡 Konyagin (1999)",
+"date": "Aristotle",
+"outcome": "20 Jun, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1098",
+"ai": "🟢 Neumann (1976)",
+"date": "Aristotle",
+"outcome": "25 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1102",
+"ai": "🟢 van Doorn and Tao (2025)",
+"date": "Aristotle",
+"outcome": "23 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1121",
+"ai": "🟢 Goodman and Goodman (1945)",
+"date": "Aristotle",
+"outcome": "16 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1125",
+"ai": "🟢 Laczkovich (1984)",
+"date": "Aristotle",
+"outcome": "11 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1126",
+"ai": "🟢 de Bruijn (1966)",
+"date": "Aristotle",
+"outcome": "27 Feb, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1134",
+"ai": "🟢 Unspecified",
+"date": "AxiomProver",
+"outcome": "19 Jun, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1136",
+"ai": "🟢 Müller (2011)",
+"date": "Aristotle",
+"outcome": "19 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1138",
+"ai": "🟢 Cheri, Kumrawat, and Sunder (2026)",
+"date": "Aristotle",
+"outcome": "4 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1141",
+"ai": "🟢 OpenAI internal model (2026)",
+"date": "GPT-5.4 Pro",
+"outcome": "11 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1148",
+"ai": "🟢 Chojecki (2026)",
+"date": "Claude Opus 4.6, Gemini 3.1, GPT-5.4, UlamAI Prover",
+"outcome": "17 Mar, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1151",
+"ai": "🟢 Chojecki (2026) (main part)",
+"date": "Codex, GPT",
+"outcome": "6 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1187",
+"ai": "🟢 Trivial (second part)",
+"date": "Codex, GPT-5.5",
+"outcome": "12 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1190",
+"ai": "🟢 Boon Suan Ho and GPT-5.4 Pro (2026)",
+"date": "Unspecified",
+"outcome": "14 May, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1193",
+"ai": "🟢 Trivial",
+"date": "Aristotle",
+"outcome": "13 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(b)",
+"problem": "1196",
+"ai": "🟢 GPT-5.4 Pro (2026)",
+"date": "Gauss",
+"outcome": "16 Apr, 2026",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "281",
+"ai": "Gemini 3 Pro, GPT-5.2 Pro",
+"date": "17 Jan, 2026",
+"outcome": "GPT-5.2 Pro (2026)",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "392",
+"ai": "GPT-5.2 Thinking",
+"date": "27 Feb, 2026",
+"outcome": "Tao (2026)",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "457",
+"ai": "GPT-5.2 Thinking",
+"date": "3 Mar, 2026",
+"outcome": "Tao (2026) (extension of problem)",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "543",
+"ai": "GPT-5.2 Thinking",
+"date": "23 Jan, 2026",
+"outcome": "GPT-5.2 Pro (2026)",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "728",
+"ai": "Aristotle, GPT-5.2 Thinking",
+"date": "5-7 Jan, 2026",
+"outcome": "Aristotle and GPT-5.2 Pro (2026)",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "783",
+"ai": "GPT-5.2 Thinking",
+"date": "24 Jan, 2026",
+"outcome": "GPT-5.2 (2026)",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "783",
+"ai": "GPT-5.2 Thinking",
+"date": "21 Feb, 2026",
+"outcome": "Tao (2026)",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "846",
+"ai": "GPT-5.2 Thinking",
+"date": "25 Feb, 2026",
+"outcome": "DeepMind prover agent (2026)",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "1039",
+"ai": "GPT-5.5 Thinking",
+"date": "8 May, 2026",
+"outcome": "GPT-5.5 Pro (2026)",
+"colour": "🟡",
+"lean": false
+},
+{
+"section": "2(c)",
+"problem": "1196",
+"ai": "GPT-5.4 Thinking",
+"date": "20 Apr, 2026",
+"outcome": "Tao (2026)",
+"colour": "🟢",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "396",
+"ai": "Claude Opus 4.6, Gemini 3.1 Deep Think, GPT-5.4 Pro",
+"date": "23 Mar-4 Apr, 2026",
+"outcome": "OEIS sequence",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "513",
+"ai": "GPT-5.2 Pro",
+"date": "12 Feb, 2026",
+"outcome": "Numerical certificate",
+"colour": "",
+"lean": false
+},
+{
+"section": "2(d)",
+"problem": "650",
+"ai": "AlphaEvolve",
+"date": "7 Mar, 2026",
+"outcome": "Numerical optimization",
+"colour": "",
+"lean": false
+}
+]

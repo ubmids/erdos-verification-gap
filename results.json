@@ -1,0 +1,251 @@
+{
+ "n_claims": 251,
+ "n_on_open": 224,
+ "ai_share_pct": 97.2,
+ "lean_share_pct": 48.6,
+ "funnel_open": {
+  "claims": 224,
+  "any_comment": 108,
+  "any_verdict": 42,
+  "verified": 31,
+  "accepted_by_moderators": 9
+ },
+ "verdict_counts_all": {
+  "discussed_no_verdict": 57,
+  "other": 14,
+  "verified_partial": 14,
+  "no_comments": 133,
+  "refuted": 1,
+  "already_known": 6,
+  "verified_correct": 21,
+  "superseded": 1,
+  "misstated_or_technicality": 3,
+  "dismissed_in_error": 1
+ },
+ "verdict_by_kind_open": {
+  "full": {
+   "discussed_no_verdict": 30,
+   "no_comments": 54,
+   "verified_correct": 18,
+   "other": 6,
+   "already_known": 4,
+   "misstated_or_technicality": 3,
+   "dismissed_in_error": 1
+  },
+  "partial": {
+   "no_comments": 62,
+   "discussed_no_verdict": 24,
+   "refuted": 1,
+   "already_known": 2,
+   "verified_partial": 13,
+   "other": 6
+  }
+ },
+ "km_prob_no_verdict_at": {
+  "7d": 0.851,
+  "30d": 0.825,
+  "60d": 0.817
+ },
+ "days_to_verdict_among_verdicts": {
+  "n": 39,
+  "median": 1.1,
+  "p75": 5.0
+ },
+ "open_claims_waiting_at_cutoff": 185,
+ "verdicts_without_date": 3,
+ "median_wait_of_waiting_days": 53.4,
+ "by_lean": {
+  "with_lean": {
+   "n": 106,
+   "verdict_pct": 17.0,
+   "verified_pct": 11.3,
+   "no_comment_pct": 51.9
+  },
+  "without_lean": {
+   "n": 118,
+   "verdict_pct": 20.3,
+   "verified_pct": 16.1,
+   "no_comment_pct": 51.7
+  }
+ },
+ "by_kind": {
+  "full": {
+   "n": 116,
+   "verdict_pct": 22.4,
+   "verified_pct": 15.5,
+   "no_comment_pct": 46.6
+  },
+  "partial": {
+   "n": 108,
+   "verdict_pct": 14.8,
+   "verified_pct": 12.0,
+   "no_comment_pct": 57.4
+  }
+ },
+ "by_family": {
+  "Claude / Fable": {
+   "n": 5,
+   "verdict_pct": 20.0,
+   "verified_pct": 0.0,
+   "no_comment_pct": 60.0
+  },
+  "GPT (other)": {
+   "n": 31,
+   "verdict_pct": 19.4,
+   "verified_pct": 19.4,
+   "no_comment_pct": 54.8
+  },
+  "GPT-5.6": {
+   "n": 123,
+   "verdict_pct": 23.6,
+   "verified_pct": 18.7,
+   "no_comment_pct": 45.5
+  },
+  "GPT-6 Astra": {
+   "n": 48,
+   "verdict_pct": 8.3,
+   "verified_pct": 4.2,
+   "no_comment_pct": 62.5
+  },
+  "none": {
+   "n": 5,
+   "verdict_pct": 20.0,
+   "verified_pct": 0.0,
+   "no_comment_pct": 40.0
+  },
+  "other": {
+   "n": 12,
+   "verdict_pct": 8.3,
+   "verified_pct": 0.0,
+   "no_comment_pct": 66.7
+  }
+ },
+ "by_tag": {
+  "number theory": {
+   "n": 111,
+   "verdict_pct": 13.5,
+   "verified_pct": 12.6,
+   "no_comment_pct": 54.1
+  },
+  "graph theory": {
+   "n": 40,
+   "verdict_pct": 35.0,
+   "verified_pct": 20.0,
+   "no_comment_pct": 42.5
+  },
+  "analysis": {
+   "n": 29,
+   "verdict_pct": 6.9,
+   "verified_pct": 3.4,
+   "no_comment_pct": 65.5
+  },
+  "geometry": {
+   "n": 15,
+   "verdict_pct": 13.3,
+   "verified_pct": 13.3,
+   "no_comment_pct": 40.0
+  },
+  "additive combinatorics": {
+   "n": 13,
+   "verdict_pct": 38.5,
+   "verified_pct": 38.5,
+   "no_comment_pct": 23.1
+  },
+  "chromatic number": {
+   "n": 12,
+   "verdict_pct": 41.7,
+   "verified_pct": 16.7,
+   "no_comment_pct": 33.3
+  }
+ },
+ "ledger": {
+  "problems_with_coloured_entries": 275,
+  "entered_unverified": 18,
+  "resolved_before_freeze": 1,
+  "resolved_colours": {
+   "\ud83d\udfe1": 1
+  },
+  "final_colours_primary": {
+   "\ud83d\udd34": 17,
+   "\u26aa": 43,
+   "\ud83d\udfe2": 90,
+   "\ud83d\udfe1": 106
+  }
+ },
+ "llm_hunter": {
+  "attempts": 2112,
+  "models": 7,
+  "reviews": 22,
+  "review_labels": {
+   "technicality": 8,
+   "known": 12,
+   "accepted": 1,
+   "incorrect": 1
+  }
+ },
+ "open_to_solved_per_month": {
+  "2025-08": 354,
+  "2025-09": 20,
+  "2025-10": 32,
+  "2025-11": 3,
+  "2025-12": 33,
+  "2026-01": 31,
+  "2026-02": 9,
+  "2026-03": 9,
+  "2026-04": 23,
+  "2026-05": 24,
+  "2026-06": 3,
+  "2026-07": 13,
+  "2026-08": 7,
+  "2026-09": 48
+ },
+ "claims_per_month": {
+  "2026-07": 119,
+  "2026-08": 49,
+  "2026-09": 83
+ },
+ "new_solves_per_month_dedup": {
+  "2025-09": 12,
+  "2025-10": 28,
+  "2025-11": 2,
+  "2025-12": 22,
+  "2026-01": 30,
+  "2026-02": 8,
+  "2026-03": 7,
+  "2026-04": 23,
+  "2026-05": 20,
+  "2026-06": 3,
+  "2026-07": 12,
+  "2026-08": 6,
+  "2026-09": 14
+ },
+ "new_solves_total": 187,
+ "reviewers": {
+  "verdicts": 47,
+  "distinct": 19,
+  "top": [
+   [
+    "Ud55978",
+    10
+   ],
+   [
+    "U9f58a7",
+    10
+   ],
+   [
+    "Ua158bd",
+    5
+   ],
+   [
+    "U3dbe3d",
+    3
+   ],
+   [
+    "U09d7b0",
+    3
+   ]
+  ],
+  "top3_share_pct": 53.2,
+  "by_moderators": 12
+ }
+}

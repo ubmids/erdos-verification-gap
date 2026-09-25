@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the paper."
+title: "The verification gap in AI-assisted Erdős problem solving: dataset and code"
+authors:
+  - family-names: Olagoke
+    given-names: Subomi
+    affiliation: Independent Researcher
+date-released: 2026-09-25
+license: CC-BY-4.0
+references:
+  - type: database
+    title: "Erdős problems database"
+    authors:
+      - name: "Erdős problems database contributors"
+    url: "https://github.com/teorth/erdosproblems"
+  - type: website
+    title: "Erdős Problems"
+    authors:
+      - family-names: Bloom
+        given-names: Thomas F.
+    url: "https://www.erdosproblems.com"
+preferred-citation:
+  type: article
+  title: "Faster Than They Can Be Checked: Measuring the verification gap in AI-assisted solutions to Erdős problems"
+  authors:
+    - family-names: Olagoke
+      given-names: Subomi
+  year: 2026
